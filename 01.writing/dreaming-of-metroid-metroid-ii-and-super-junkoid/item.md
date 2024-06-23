@@ -219,4 +219,4 @@ And they do this despite the fact that they can't make the [build up to the Quee
 
 I come off of Metroid II and Super Junkoid, only to see people comment that Metroidvanias should focus more about being action games. That getting lost is frustrating. That backtracking is boring. I don't *like* these opinions, but they're fine. We all have our tastes, but still...
 
-Why do you care, then? Why care about this genre? Are you said about missing out on the lady with the cool arm cannon? Do we need to conform every genre to whatever AA and AAA design patterns are in vogue? Is there not content enough already to satiate you?
+Why do you care, then? Why care about this genre? Are you sad about missing out on the lady with the cool arm cannon? Do we need to conform every genre to whatever AA and AAA design patterns are in vogue? Is there not content enough already to satiate you?
