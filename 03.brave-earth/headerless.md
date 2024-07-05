@@ -8,7 +8,7 @@ nodate: '1'
 <br><br><br><br>
 [floatbox type="full"]
 ![translogo](translogo.png "translogo")
-[/floatbox]\
+[/floatbox]
 <hr>
 [plugin:youtube](https://www.youtube.com/watch?v=vACqdaSnvp0)
 **Release Date: TBA - [Follow Brave Earth on Steam](https://store.steampowered.com/app/706680/Brave_Earth_Prologue/)**
