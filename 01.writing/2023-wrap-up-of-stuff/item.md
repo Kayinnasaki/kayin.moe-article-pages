@@ -19,6 +19,8 @@ It was great? What do you want from me? What could I possibly say? Like it was a
 
 Besides Dark Souls 1, this might be my favorite? And honestly at this point DS1 is held up entirely by its map in my mind, where the other contenders of Elden Ring and Bloodborne play *so so well*. But yeah w/e it's all been said.
 
+---
+
 # Fighting games in 2023
 
 While I didn't play a lot of new games, I played a lot of fighting games so I guess it's a good time to talk about my current relationships with them.
