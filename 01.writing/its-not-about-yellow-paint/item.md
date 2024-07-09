@@ -1,5 +1,7 @@
 ---
 title: 'It’s Not About Yellow Paint'
+date: '17-02-2024'
+publish_date: '17-02-2024'
 header_image: header.png
 taxonomy:
     category:
@@ -14,6 +16,8 @@ Final Fantasy 7 Rebirth released a demo and... there are yellow painted cliffs, 
 ... But oh *god* did it unfortunately choose *that yellow paint* that has come to symbolize a type of hand holding that has been wearing on players over the last decade. It has started to feel similar to the ancient **Old Man Murray** *"Start to Crate"* system, judging a game on "How long it took to see a crate", representing the point where "the developers ran out of ideas".
 
 This standard wasn't exactly *fair* and neither is judging a game on using yellow paint. FF7R is probably fine, because again, this isn't about FF7R. It is, of course, not even about the yellow paint. It's about what the yellow paint represents.
+
+===
 
 # It's Not About Leaving the Player to Struggle
 

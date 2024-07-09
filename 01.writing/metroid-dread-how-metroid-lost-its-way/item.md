@@ -23,6 +23,8 @@ I'm writing this because my feelings come from the heart. Because 2D Constructed
 
 I don't want you to hate Metroid: Dread, I wan't you to understand _**why someone would**_. 
 
+===
+
 # An Over Designed Game with an Under Designed World
 
 To claim the Map of Metroid: Dread is, in any sense "Under Designed" is a tall order. [Game Maker's Toolkit](https://www.youtube.com/watch?v=5pop-cc9kmY) has an excellent video on all the tricks and design techniques Dread utilizes to keep you progressing through the game. Regardless of my overall opinion of this game, It's a genuinely impressive technical feat to balance so many moving parts... To keep Dread's guiding hand invisible and frictionless.

@@ -1,8 +1,8 @@
 ---
 title: 'Wet Emotions and the Dry Desert of US Television Wrestling'
 header_image: header.jpg
-date: '09-04-2024 20:09'
-publish_date: '09-04-2024 20:09'
+date: '09-05-2024'
+publish_date: '09-05-2024'
 taxonomy:
     category:
         - Blog
@@ -15,6 +15,8 @@ As someone who no longer watches WWE regularly, Wrestlemania weekend left me *fe
 WWE stories that feel like they're built from lego, assembled through force and held by friction. You can build truly incredible things with legos and in the same way, no one should be ashamed of enjoying the stories within WWE. If you meet WWE on it's own terms, it can be a lot of fun!
 
 But I want to talk about the *mortar*. The *Wet Emotions* that are often underused, and under appreciated in US Televised Wrestling.
+
+===
 
 # Television Wrestling is a Snake Eating it's own Tail
 ![](wwe.jpg?lightbox)

@@ -19,6 +19,8 @@ taxonomy:
 
 I find myself a dabbling viewer of Jeff Gerstmann's [Ranking of Every NES game](https://www.youtube.com/watch?v=46AjLP33meU&list=PLDKeuvgV0sxZ_xs4zUvQcMEV-LTjSf-Ok) series. I appreciate [The Science](https://8bitnintendo.science/), even if I can't understand a world where Commando ranks higher than Guerrilla War... but science isn't an *answer*, it is a *process*, and more important than the exact rankings is hearing Jeff's process, hearing him try to decouple his preconceptions from the game sitting before him. While this kind of [tool tip="Big 2000s internet forum energy"]*objective*[/tool] approach is one I find myself trying to get away from, it's still interesting to hear someone older, and with a wider breadth of knowledge, contextualize these games in ways I could not. It's pretty good stuff, though not *the point*. The point is more that in the last episode I watched, he ran into and was taken back by two crazy, ambitious games, Die Hard and The Lone Ranger.
 
+===
+
 # Die Hard
 
 Die Hard made me pause Jeff's video within 20 seconds to run off and go play it. I even thumbed through a pixelated, awful scan of the manual before getting started, because the smell of the game had this... weird simulationist vibe. Or even a rogue-like vibe? The game isn't some [tool tip="Literally every other Die Hard on every other platform will fill these roles instead"]licensed game action platformer or shoot'em up[/tool]. There aren't levels or bosses. The game is almost a *simulation*. A Simulation of the movie *Die Hard*. You are in this building, free to explore. You kill a man and get a radio. You listen to the terrorists communications. They try and track you down. You have fog of war. You have a [tool tip="Shush"]*Foot Meter*[/tool]. Why?

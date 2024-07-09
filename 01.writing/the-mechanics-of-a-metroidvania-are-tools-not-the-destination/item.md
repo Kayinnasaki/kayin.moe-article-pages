@@ -1,5 +1,7 @@
 ---
 title: 'The Mechanics of a Metroidvania are Tools, not the Destination'
+date: '18-05-2024'
+publish_date: '18-05-2024'
 taxonomy:
     category:
         - Blog
@@ -16,7 +18,9 @@ taxonomy:
 
 As usual, with these posts, I start by [tool tip="Don't worry about this though, I'm just gonna rehash all of it here"][going off on twitter](https://x.com/KayinNasaki/status/1790726647936688596)[/tool], this time about Metroidvania, and as usual it's time to salvage a messy thread from a dying platform. 
 
-[tool tip="It's Sylvie Lime, but for normies."]Animal Well is *apparently good*[/tool] and with that, comes the think pieces and opinions on what the nebulous and poorly named genre of Metroidvanias is and how they *should be*, mechanically.
+[tool tip="It's Sylvie Lime, but for normies."]Animal Well is *apparently good*[/tool] and with that, comes the think pieces and opinions on what the nebulous and poorly named genre of Metroidvanias is and how they *should be*, mechanically. 
+
+===
 
 This is a familiar cycle. Game design in general always has a problem with looking at the last hit and copying the *wrong things*. Copying without understanding, "refining" mechanics to solve self made design problems. In Metroidvanias, a genre where the difference between a "good" and a "great" entry feels like a chasm, this problem is magnified.
 

@@ -23,6 +23,8 @@ My palette cleanser after Dread was Metroid II. I ended up using so many Metroid
 
 ...Aesthetically though there *is something* about the pure monochrome look. Probably the best way to do a first play through.
 
+===
+
 So to go over my notes...
 
 * My bullshit tolerance is so much higher now, playing through this game was pleasant and relaxing.

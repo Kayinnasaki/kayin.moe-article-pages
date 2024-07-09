@@ -22,6 +22,8 @@ I'll be honest, I don't really like Mega Man? No fault of the games, but over ti
 
 Some people might be like "IWBTG is basically megaman, you have like the same type of movement and shooting!" but let's be real, how much did that gun *actually do*?
 
+===
+
 Still, X1 is *probably* my favorite Mega Man. Like me saying "I don't really like Metroid Prime" it's one of those situations where I'm still playing the game like [tool tip="Insert Jeff Gerstmann asking 'But what does the Science say?'"]"Damn this is a well made game"[/tool]. It's fucking Mega Man X. It's great. Even if I don't love the style of game, it's still just so... rawly excellent. It's easier to enjoy a classic that's not exactly your *thing* when the commitment is basically that of a long movie.
 
 One thing that stuck out to me is how hilarious sparse Zero is. [tool tip="Young me thought he was a girl and this gave me TONS of confusing thoughts"]His[/tool] entire presence in the story is basically... 

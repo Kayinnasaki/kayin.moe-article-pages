@@ -1,6 +1,8 @@
 ---
 title: 'Mario 64 B3313, Intended Experiences, and a bit of myhouse.wad'
 header_image: header.png
+date: '09-04-2024'
+publish_date: '18-05-2024'
 taxonomy:
     category:
         - Blog
@@ -14,6 +16,8 @@ publish_date: '03-04-2024 08:42'
 ---
 
 Mario 64 has been one of my favorite Mario games for a long time. This isn't really an uncommon opinion, as this game hits a certain nostalgic window for some people. It's a game people often remember fondly before going back and remembering how *janky* it is, or how rough the controls can be... how scattershot it's design was. What appeals to me about Mario 64 isn't that I was young. It is that the *genre* was young and it is the type of weird game that can only exist within a short window. The type of game that gets made when everyone is talented, but no one *quite* knows what they're doing yet.
+
+===
 
 [floatbox type="right"]
 ![](basicallymario64.png?lightbox) 3d Level Design in the mid 90s

@@ -1,6 +1,8 @@
 ---
 title: 'Design Lateralism, the Demon’s Souls Remake and Why AI Art Can’t Be Creative, but Is Still Inevitable'
 header_image: header.png
+date: '25-03-2024'
+publish_date: '25-03-2024'
 taxonomy:
     category:
         - Blog
@@ -21,6 +23,8 @@ I think it's deeply important for a remake to have it's own identity. I think it
 You gotta make decisions and they *made* decisions, as they should have! But I swear to god, somehow, as far as *my* tastes are concerned, and despite all odds... 
 
 *Every single one of them was bad*.
+
+===
 
 That sounds like an unfair statement. [tool tip="Some of them are at least mid"]It kinda *is* an unfair statement[/tool]. Some less invested people look at me crazy when I say it! Bluepoint has tons of *technically great* artists! These designs aren't poorly executed or awkwardly designed. Everything is high fidelity, perfectly color graded, well performing, and well optimized... but there's a problem.
 

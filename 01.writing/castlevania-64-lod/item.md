@@ -18,6 +18,8 @@ At what point is a game unjustly maligned? When is a *Flawed Gem* merely a stone
 
 No. And while I am unsure exactly how I fall on Castlevania 64 and it's strange seque-xpansion, I walk away *respecting* these games. I find myself dwelling on how people try to rehabilitate flawed titles like these. Because does a game need to be good to be enjoyed? Does it have to be good to appreciate the high level of skill that made into making it? Does a game have to be good to be under appreciated?
 
+===
+
 *No.*
 
 [midheader image="cv64mid.png" text="Castlevania 64"/]
