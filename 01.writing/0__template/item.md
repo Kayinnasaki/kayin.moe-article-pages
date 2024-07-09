@@ -1,8 +1,8 @@
 ---
 title: 'Replace Me'
 published: false
-date: '17-06-2024 12:00'
-publish_date: '17-06-2024 12:00'
+date: '17-06-2024'
+publish_date: '17-06-2024'
 taxonomy:
     category:
         - Blog
