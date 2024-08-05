@@ -5,10 +5,6 @@ publish_date: '29-12-2022'
 taxonomy:
   category:
     - 'blog'
-  tag:
-    - ''
-  games:
-    - ''
 ---
 
 *I hate steam trading cards.*
