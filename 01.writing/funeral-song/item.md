@@ -106,7 +106,11 @@ The game opens up emotionally, similarly to *Sylvie Lime*, but in a way that's e
 
 *These are problems for Future me.*
 
-But *Funeral Song for the Elemental Lords* makes you clean up your kittens before bed. Literally. There is a sophisticated metaphor here. I don't know 100% what to make of the *Executioner* without another play through. I personally interpreted the False Elemental Lords as maladaptive but I'm not sure that's supported in the text. I don't think understanding the intent 100% is necessary though, as the important thing is that you should love and care for yourself a little more because you know how bad, unmotivated, and loveless you feel when you don't. This is a game the makes you literally invincible because you got some sleep. Rewarded you because you kept track of and remembered your body.
+But *Funeral Song for the Elemental Lords* makes you clean up your kittens before bed. Literally. There is a sophisticated metaphor being crafted here, very open to interpretation. You take keys that plunge you into darkness, the thoughts that cause you to spiral you into misery and you force your way through until you unlock deeper understandings of yourself. You find the damaged parts of yourself in need of tender care. You realize what a husk you've been for so long and get slapped in the face by crushing reality. "Why *do* I feel so empty?"
+
+It's time to rebuild.
+
+I don't know 100% what to make of the *Executioner* without another play through. I personally interpreted the False Elemental Lords as maladaptive but I'm not sure that's supported in the text. I don't think understanding the intent 100% is necessary though, as the important thing is that you should love and care for yourself a little more because you know how bad, unmotivated, and loveless you feel when you don't. This is a game the makes you literally invincible because you got some sleep. Rewarded you because you kept track of and remembered your body.
 
 ## Closing Thoughts
 
