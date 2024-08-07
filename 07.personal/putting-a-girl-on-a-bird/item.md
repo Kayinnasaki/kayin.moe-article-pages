@@ -2,7 +2,7 @@
 title: 'Putting a Girl on a Bird: The Frustrations of making AI Art'
 date: '18-04-2023 07:03'
 publish_date: '18-04-2023 07:03'
-subheading: 'I hate this shit but I make it anyways'
+subtitle: 'I hate this shit but I make it anyways'
 ---
 
 I feel like I gotta set the stage here so everyone knows where I'm coming from. *If you follow my private twitter and mostly know how I feel about this stuff, feel free to skip down to the pictures.*
