@@ -10,12 +10,12 @@ date: '17-01-2024 08:44'
 publish_date: '17-01-2024 08:44'
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I hate this fucking game <a href="https://t.co/mlXPNMMOia">pic.twitter.com/mlXPNMMOia</a></p>&mdash; Grongo Art (0/2) (@GrongoA) <a href="https://twitter.com/GrongoA/status/1731187893262246050?ref_src=twsrc%5Etfw">December 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I hate this fucking game <a href="https://t.co/mlXPNMMOia">pic.twitter.com/mlXPNMMOia</a></p>&mdash; Grongo Art (@GrongoA) <a href="https://twitter.com/GrongoA/status/1731187893262246050?ref_src=twsrc%5Etfw">December 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </script></div>
 
 I think about this video a lot. It probably pops into my mind at least once a week. It's hilarious, but also dystopian. Hell, it's hilarious *because* it's dystopian. Seeing this weird game that is *technically kinda actually really cool* have so little identity of its own, instead being some viscous **Ready Player One** gruel of pop culture. Endless slop to help the Battle Passes go down easier. But this video, or any other random video of Naruto knocking off Jack Skellington, is... almost beautiful, like a dying star, sucking everything in with it's massive gravitational pull.
 
-##	Guest Character’s Aren’t *Bad* but I Will Resist Them With Every Fiber of My Being
+## Guest Character’s Aren’t *Bad* but I Will Resist Them With Every Fiber of My Being
 
 In my usual fashion I was popping off on twitter about how I'm honestly glad **Street Fighter** and **Guilty Gear** don't really do guest characters *(I guess SFV had Akira but there is a weird DNA link there)*. Had some fun discussing edge cases or how things have changed but I didn't really *argue* too much with anyone, even though some people *really* disagreed. Like I'd get some QRTs calling me a stuffy nerd and well, *I'm a stuffy nerd* and this is the lowest stakes thing to talk about.
 

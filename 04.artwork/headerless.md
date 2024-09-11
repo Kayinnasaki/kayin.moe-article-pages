@@ -10,6 +10,7 @@ nodate: '1'
 Collection of a lot of my old artwork. You can find even more stuff over at my ancient [Deviant Art](https://www.deviantart.com/kayinnasaki).
 
 [gallery rowHeight=200 margins=20 lastRow="justify" captions="false" border=0]\
+![MakotoBase2](MakotoBase2.gif "MakotoBase2.gif")
 ![makotonervousfull](makotonervousfull.png "makotonervousfull")
 ![whateverdone](whateverdone.png "whateverdone")
 ![waiting_tables_by_kayinnasaki-d7v5xbc](waiting_tables_by_kayinnasaki-d7v5xbc.png "waiting_tables_by_kayinnasaki-d7v5xbc")
