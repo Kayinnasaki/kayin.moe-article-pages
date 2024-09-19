@@ -24,7 +24,7 @@ Compare this to *models*. A model train is desperately trying to be what it repr
 
 Now, a *model* is no nobler than the toy. Despite it's attempts to be *real*, it never will be. A model feigns realism, deceitful by its very nature.
 
-But *toys* aren't exactly honest either. You look at that village, when its helpful cop and its selfless, competent social services. You look at the handsome and strong toy soldier, the impossibly proportioned Barbie doll. You look at toy guns that are disarmingly harmless, and bears that only want to snuggle.
+But *toys* aren't exactly honest either. You look at that village, with its helpful cop and its selfless, competent social services. You look at the handsome and strong toy soldier, the impossibly proportioned Barbie doll. You look at toy guns that are disarmingly harmless, and bears that only want to snuggle.
 
 Toys, in a way, become a type of *propaganda*. I don't mean to say this in any way approaching [tool tip="Though I am suss of any kids thing that makes a child want to become a cop. Even you, Paw Patrol"]"Toys are evil and we shouldn't trust them or let kids play with them"[/tool], but to acknowledge that there is often a bit of *self deception* when it comes with many forms of entertainment. Little lies that we don't need to beat ourselves up over, but are fun to talk about.
 
@@ -65,7 +65,7 @@ A [tool tip="Not that disagreeing is crazy, but more than one little line got mo
 
 Perhaps the second does, to some, look better in the abstract, but does it look better in ways that aligns what the game is trying to attempt to do? For me, the answer, again and again, is *no*. Yet many prefer the smooth, high res, ultra-high frame rate versions these emulators provide. *They want to play with a toy.* They want to play with this idealized caricature. The sticker decal clock isn't a shortcoming, it's a charm point. Old 3D games were *kinda cute*, right?
 
-I don't think there is, intrinsically, wrong with playing games like this. Playing with toys is fun! Randomizers are a way to turn games we already know we love into new experiences. A different type of toy, a different type of play, but cut of similar cloth. 
+I don't think there is, intrinsically, anything wrong with playing games like this. Playing with toys is fun! Randomizers are a way to turn games we already know we love into new experiences. A different type of toy, a different type of play, but cut of a similar cloth. 
 
 Yet I have no problem finding non-randomized footage of a game like **A Link to the Past**, but struggle to find *real*, unfucked footage of a game like **Vagrant Story**... a game where the pitfalls of things like texture smoothing should be *obvious*. We don't remember the games as they were, we remember the toy version. We remember the [Flanderized](https://en.wikipedia.org/wiki/Flanderization) version. 
 
@@ -78,7 +78,7 @@ Then those who didn't grow up with these games who wish to go back and experienc
 
 A great reply [on cohost](https://cohost.org/blazehedgehog/post/6583760-cherry-picking-is-on) from BlazeHedgehog(*very much worth the read*) shows off one of my favorite bugbears, the PC version of **Metal Gear Solid** and how the game not even isn't supposed to look like that, it's not supposed to look like the pixel accurate, crisp version. It's supposed to be [tool tip="And also un-interpolated!! Motion Smoothing is Toyification for Movies!!!"]*a little dirty*[/tool]. That first screen shot could be a desktop vignette. Maybe even a really ambitious papercraft project. When you add the dithering and the blur though, all the little details become more plausible. It's perfect, it is still a PSX game, but the vision of *what the game is trying to be* comes through.
 
-I don't want to police how people play old videogames. I don't want to say *you need to run this CRT shader*, or [tool tip="Unless it's on the Genesis, then you have to!!"]*you have to use an NTSC filter*[/tool], or *no you gotta play on real console, on a CRT!*
+I don't want to police how people play old videogames. I don't want to say *you need to run this CRT shader*, or [tool tip="Unless it's on the Genesis, then you have to!!"]*you have to use an NTSC filter*[/tool], or *no you gotta play on a real console, on a CRT!*
 
 We sometimes have to make concessions to pragmatism. We have to yield to preference and interpretation. I can't expect everyone to be a sicko who is okay playing a game at 14 FPS. **Quake**, with [Modern 3D Acceleration](https://www.youtube.com/watch?v=rlsQkvZhnnE) holds up really well... But if you switch to the old [Software Rendering mode](https://www.youtube.com/watch?v=Et2DQ4DeK8k), it becomes a beautiful, incredible beast. It makes the modern version, again, look like *a toy*. You're not in some dark, Gothic castles, you're exploding toy models in little polygonal arenas. It's not trying to keep an illusion, it's trying to *render fast*.
 
@@ -106,7 +106,7 @@ There is no desire to preserve, only to *capitalize* when the moment seems right
 
 Even well meaning ports can call into the same traps simply due to how *normalized* this is. The **Final Fantasy Pixel Remasters** change many graphics to *un-CRT* them. But instead of that, you simply get a more cartoonish, *chibi* version of the designs. They always had these proportions, but instead of hinting at a larger reality, they overly embrace their shortcomings.
 
-One could argue that maybe these changes were the intended to originally look, but the clash between Final Fantasy 6's character graphics and backgrounds betray this. I have great respect for Kazuko Shibuya. This isn't like those awful, talentless iOS ports. She had a goal for the pixel remasters and achieved it, like the talented artist she is... But that goal, I feel, was influenced by how we've commodified these old game aesthetics. Old Final Fantasy graphics are toys now.
+One could argue that maybe these changes were the intended original look, but the clash between Final Fantasy 6's character graphics and backgrounds betray this. I have great respect for Kazuko Shibuya. This isn't like those awful, talentless iOS ports. She had a goal for the pixel remasters and achieved it, like the talented artist she is... But that goal, I feel, was influenced by how we've commodified these old game aesthetics. Old Final Fantasy graphics are toys now.
 
 There has been a lot of toyification in retro pixel art for awhile now. I sometimes feel like faux-8-bit games are more **Shovel Knight** fan games than actual throwbacks. Sometimes this bothers me, but there isn't actually anything *wrong* with that. At least when it's intention.
 
@@ -118,7 +118,7 @@ Before I close up I just wanted to talk about some cool and cute examples of int
 
 I was a big fan of the **3D Dot Game Hero** high Depth of Field, voxel aesthetic, toyifying the 8-bit Dragon art style (with a dash of Zelda), and adding in some [Ginormo Sword](https://www.crazygames.com/game/ginormo-sword). It's not reducing anything down, but is instead a toy-like from inception. **Octopath Travel** executes this at an even higher level. It's hard for me personally to sort my feelings out on how this plays into **LIVE A LIVE**, as this wasn't a thoughtless change but instead a very high effort re-imagining. While it's high effort aesthetic feels less like [*bike shedding*](https://en.wikipedia.org/wiki/Law_of_triviality) than the Pixel Remasters changes, it still comes from the same, reductive way of looking at old videogame art.
 
-Not everything has to have this artificial, toyish aesthetic. You could almost say that **Serious Sam** is the toyified version of Doom, a parody of its gameplay to the point where it no longer resembles it and instead becomes something different. Sometimes the *context* is toyifying. You might seem this type of genre-toyification
+Not everything has to have this artificial, toyish aesthetic. You could almost say that **Serious Sam** is the toyified version of Doom, a parody of its gameplay to the point where it no longer resembles it and instead becomes something different. Sometimes the *context* is toyifying. You might've seen this type of genre-toyification.
 
 Something like **Castlevania: Harmony of Despair**'s Castlevania 1 level toyifies that environment, but in a way that is fun and playful. You get a similar effect from the fan game [**Link's Awakening DX HD**](https://archive.org/details/links-awakening-dx-hd), where you can zoom out in... frankly *world destroying* ways that break the illusion of the game, but makes for a [tool tip="Though maybe not actually 'intentional' with this one"]cool and interesting toy[/tool].
 
