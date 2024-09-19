@@ -5,7 +5,7 @@ publish_date: '19-09-2024'
 header_image: 'header.jpg'
 taxonomy:
   category:
-    - 'Blog Pending'
+    - 'Blog'
 ---
 
 *Toy* is a term I've been using among [tool tip="It's Mirai, it's always Mirai"]friends[/tool] lately. A term I can use, talking from anything old video game remakes, to character designs, negatively or positively. Of course this doesn't help me when I want to use the term publicly. Saying something is a toy invokes *a lot* of different often contrasting ideas. So for the sake of clarity, I want to share *my* definition.
@@ -20,13 +20,15 @@ Toys, [tool tip="Kinda glossing over the Cup and Ball tbf"]as they were, for tho
 
 A toy isn't trying to *be* the thing it's representing. It's a symbol. A toy is an streamlined proxy. *An idealized Memory*. A fantasy.
 
-Compare this to *models*. A model train is desperately trying to be what it represents. It wants to contain all the details, all the nuances. Great models and kits border on educational. It will never succeed at truly being what it represents, but it aims for a level of verisimilitude that a toy does not concern itself with. While toys are *subtractive*, models are *additive*, starting with nothing and trying to build back up to reality.
+===
+
+Compare this to *models*. A model train is desperately trying to be a real train. It wants to contain all the details, all the nuances. Great models and kits border on educational. It will never succeed in truly being what it represents, but it aims for a level of verisimilitude that a toy does not concern itself with. Where toys are *subtractive*, models are *additive*, starting with nothing and trying to build back up to reality.
 
 Now, a *model* is no nobler than the toy. Despite it's attempts to be *real*, it never will be. A model feigns realism, deceitful by its very nature.
 
 But *toys* aren't exactly honest either. You look at that village, with its helpful cop and its selfless, competent social services. You look at the handsome and strong toy soldier, the impossibly proportioned Barbie doll. You look at toy guns that are disarmingly harmless, and bears that only want to snuggle.
 
-Toys, in a way, become a type of *propaganda*. I don't mean to say this in any way approaching [tool tip="Though I am suss of any kids thing that makes a child want to become a cop. Even you, Paw Patrol"]"Toys are evil and we shouldn't trust them or let kids play with them"[/tool], but to acknowledge that there is often a bit of *self deception* when it comes with many forms of entertainment. Little lies that we don't need to beat ourselves up over, but are fun to talk about.
+Toys, in a way, become a type of *propaganda*. I don't mean to say this in any way approaching [tool tip="Though I am suss of any kids thing that makes a child want to become a cop. Even you, Paw Patrol"]"Toys are evil and we shouldn't trust them or let kids play with them"[/tool], but to acknowledge that there is often a bit of *self deception* that comes with many forms of entertainment. Little lies that we don't need to beat ourselves up over, but are fun to talk about.
 
 ## But how does this apply to Video Games?
 
@@ -36,7 +38,7 @@ Toys, in a way, become a type of *propaganda*. I don't mean to say this in any w
 
 You can do the obvious thing, and compare the goals of games, comparing the range of FPSs, something *simulationist* like **ARMA** to **Call of Duty** to something on the far end of *arcadey*, like **Overwatch**. A scale of *model* to *toy*, playing war vs the fantasy of war.
 
-... But we have words for that already, words I already had to use to describe the games above. Instead I'm going to talk about how we *toyify* games that already exist.
+... But we have words for that already, words I already had to use to describe the games above. I want to talk about how we *toyify* games that already exist.
 
 Even back in the era of the NES, we were doing this with the US *Nintendo Black Label* releases. Mario, fully pixelated, presented like a cut-out decal. Mario *the abstraction*, like the wooden toy knight. Unlike the famicom cover and it's cute art, the US, [tool tip="tl;dr video game crash and fear of false advertising"]for complicated reasons[/tool], embraced the facade.
 
@@ -61,11 +63,11 @@ A lot of digital ink got spilled on cohost in the wake of my Castlevania 64 revi
 
 A [tool tip="Not that disagreeing is crazy, but more than one little line got more interaction than a whole big write-up 😭"]surprising number of people[/tool] debated with this premise. "The second one is clearer! You can see the details! You can see the textures! I can actually see that it's a clock!"
 
-... But you *don't* see that it's a clock. You see it's a symbol for a clock. You see the *toy clock*, the little box with sticker over it, with the face of a clock printed on it. The environment goes from being a full faith-ed attempt at simulating Dracula's castle to being *a playset*.
+... But you *don't* see that it's a clock. You see it's a symbol of a clock. You see the *toy clock*, the little box with sticker placed over it, with the face of a clock printed on it. The environment goes from being a full faith-ed attempt at simulating Dracula's castle to being *a playset*.
 
 Perhaps the second does, to some, look better in the abstract, but does it look better in ways that aligns what the game is trying to attempt to do? For me, the answer, again and again, is *no*. Yet many prefer the smooth, high res, ultra-high frame rate versions these emulators provide. *They want to play with a toy.* They want to play with this idealized caricature. The sticker decal clock isn't a shortcoming, it's a charm point. Old 3D games were *kinda cute*, right?
 
-I don't think there is, intrinsically, anything wrong with playing games like this. Playing with toys is fun! Randomizers are a way to turn games we already know we love into new experiences. A different type of toy, a different type of play, but cut of a similar cloth. 
+I don't think there is, intrinsically, anything wrong with playing games like this. Playing with toys is fun, and we are free to play with toys however we like! We upscale, we add mods, we invent completely new types of play. Randomizers are a way to turn games we already know we love into new experiences. A different type of toy, a different type of play, but cut of a similar cloth. 
 
 Yet I have no problem finding non-randomized footage of a game like **A Link to the Past**, but struggle to find *real*, unfucked footage of a game like **Vagrant Story**... a game where the pitfalls of things like texture smoothing should be *obvious*. We don't remember the games as they were, we remember the toy version. We remember the [Flanderized](https://en.wikipedia.org/wiki/Flanderization) version. 
 
@@ -82,9 +84,9 @@ I don't want to police how people play old videogames. I don't want to say *you 
 
 We sometimes have to make concessions to pragmatism. We have to yield to preference and interpretation. I can't expect everyone to be a sicko who is okay playing a game at 14 FPS. **Quake**, with [Modern 3D Acceleration](https://www.youtube.com/watch?v=rlsQkvZhnnE) holds up really well... But if you switch to the old [Software Rendering mode](https://www.youtube.com/watch?v=Et2DQ4DeK8k), it becomes a beautiful, incredible beast. It makes the modern version, again, look like *a toy*. You're not in some dark, Gothic castles, you're exploding toy models in little polygonal arenas. It's not trying to keep an illusion, it's trying to *render fast*.
 
-For a game like Quake, sometimes that's what you want. Unlike a lot of games, it's safe to say John Carmack probably wants you to play Quake in the most *high tech*, modern way possible, but playing as it was on release shows the type of artistry it was designed for. Is playing it like this, for most people, pragmatic? No. Neither is seeing every movie in a theater, through an analog projector. We choose our battles, and make decisions based on how much we care.
+For a game like Quake, sometimes that's what you want. Unlike a lot of games, it's safe to say John Carmack probably wants you to play Quake in the most *high tech*, modern way possible. Despite that, playing as it was on release shows the true intentions of it's artistic decisions. Is playing it like this, for most people, pragmatic? No. Neither is seeing every movie in a theater, through an analog projector. We choose our battles, and make decisions based on how much we care.
 
-The problem is that I don't think most of us actually really *making* these types of decisions. The choice instead is between apathy and *more*. We feel the need to *fix* old games. We don't want the hard, opinionated, confrontational object we experienced in the past, we want a toy to stand in for that, smoothed out. We'll take the [tool tip="Or Astro Bot, apparently"]*Funko Pop*[/tool] version of our old favorites, and game publishers know this.
+The problem is that I don't think most of us actually really *making* these types of decisions. The choice instead is between apathy and *more*. We feel the need to *fix* old games. We don't want the hard, opinionated, confrontational object we experienced in the past, we want a toy to stand in for that, smoothed out and friendly. We'll take the [tool tip="Or Astro Bot, apparently"]*Funko Pop*[/tool] version of our old favorites, and game publishers know this.
 
 ## Game Publishers care even less than we do
 
@@ -99,7 +101,7 @@ What really made these changes hurt is when Golden was ported to PC. Now these c
 
 ++++
 
-**Wind Waker HD** betrayed it's own aesthetics to try and sell a new console. We need *lighting* to look *HD*. We need ATMSOPHERE. The art of the original be damned. Yet, by doing so, we got somethin more toy-like, even in a literal sense. Like little *Amiibos* running around. Now, Nintendo won't even offer you either version.
+**Wind Waker HD** betrayed it's own aesthetics to try and sell a new console. We need *lighting* to look *HD*. We need ATMSOPHERE. The art of the original be damned. Yet, by doing so, we got something more toy-like, even in a literal sense. Like little *Amiibos* running around. Now, Nintendo won't even offer you either version.
 
 There is no desire to preserve, only to *capitalize* when the moment seems right. Nintendo only cares about it's past so it can control it's brand image. It only cares about ROMs so it can pretend to be like Disney and have their little controlled vault. They just want more ways to sell you toys.
 [/splitbox]
