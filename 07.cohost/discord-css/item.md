@@ -1,7 +1,7 @@
 ---
 title: 'Using CSS to make Discord Better'
-date: '20-10-2024'
-publish_date: '20-10-2024'
+date: '20-08-2024'
+publish_date: '20-08-2024'
 taxonomy:
   category:
     - 'Cohost'
