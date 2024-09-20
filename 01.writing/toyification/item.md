@@ -6,6 +6,7 @@ header_image: 'header.jpg'
 taxonomy:
   category:
     - 'Blog'
+    - 'Games'
 ---
 
 *Toy* is a term I've been using among [tool tip="It's Mirai, it's always Mirai"]friends[/tool] lately. A term I can use, talking from anything old video game remakes, to character designs, negatively or positively. Of course this doesn't help me when I want to use the term publicly. Saying something is a toy invokes *a lot* of different often contrasting ideas. So for the sake of clarity, I want to share *my* definition.

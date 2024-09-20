@@ -4,7 +4,14 @@ routable: true
 nodate: '1'
 ---
 
-# Projects made by me!
+# Additional Pages
+<hr>
+
+[**The Cohost Archive**](../cohost) contains a feed of most of my best cohost posts over the few years it existed. These posts also come up as searches, so if you're looking for something specific, try using the search bar.
+
+[**Article Github**](https://github.com/Kayinnasaki/kayin.moe-article-pages) A github page containing every article on this blog. See a typo that's bothering you? Submit an issue or pull request!
+
+# Small Projects!
 <hr>
 
 [**Dark Souls Map Explorer**](dark-souls-map-explorer)
@@ -18,6 +25,7 @@ Another silly gamejam game. 2 hours of work put into Attitude Adjusting fun.
 
 [**Durp Kick**](/files/durpkick.exe)
 Another parody game. Was meant as a silly joke amongst a few people, but sorta blew up into a lot of negative attention for the Divekick team. Still, now that everything has blown over, I'd prefer to archive it here.
+
 
 # Hosted for Others
 <hr>
