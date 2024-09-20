@@ -6,7 +6,7 @@ The purpose of this repository is to receive corrections and fix typos. Currentl
 
 ### Submission Guidelines
 
-- Don't try to re-write me weird wack ass prose in a PR.
+* Don't try to re-write me weird wack ass prose in a PR.
   * Keep any Pull Requests to simple typos, spelling mistakes, or minor grammatical issues.
   * If a sentence needs to be rewritten, I'll figure out how to do it.
 * If a paragraph or line is too confusing, incoherent, or just plain wrong, file an issue.
