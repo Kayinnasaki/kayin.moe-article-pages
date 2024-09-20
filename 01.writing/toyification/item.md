@@ -101,7 +101,7 @@ What really made these changes hurt is when Golden was ported to PC. Now these c
 
 ++++
 
-**Wind Waker HD** betrayed it's own aesthetics to try and sell a new console. We need *lighting* to look *HD*. We need ATMSOPHERE. The art of the original be damned. Yet, by doing so, we got something more toy-like, even in a literal sense. Like little *Amiibos* running around. Now, Nintendo won't even offer you either version.
+**Wind Waker HD** betrayed its own aesthetics to try and sell a new console. We need *lighting* to look *HD*. We need ATMSOPHERE. The art of the original be damned. Yet, by doing so, we got something more toy-like, even in a literal sense. Like little *Amiibos* running around. Forget playing the original, now Nintendo won't even offer you *either* version.
 
 There is no desire to preserve, only to *capitalize* when the moment seems right. Nintendo only cares about it's past so it can control it's brand image. It only cares about ROMs so it can pretend to be like Disney and have their little controlled vault. They just want more ways to sell you toys.
 [/splitbox]
