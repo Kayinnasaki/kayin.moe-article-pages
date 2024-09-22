@@ -12,11 +12,10 @@ taxonomy:
    - 'Dark Souls(series)'
 ---
 
-<div class="ask" markdown=1>
-**@DieselBrain** *asked:*
+<script type="module" src="/etc/cohost-wc.js"></script>
+<link rel="stylesheet" href="/etc/cohost-wc.css" /> 
 
-Heya! Really enjoyed reading your critique of Dread even as someone who really liked the game! Youve written about souls stuff before but i saw the swipe you took at Gael and now it has me curious about your feelings on souls style boss design. Got any favs/least favs?
-</div>
+<cohost-post avatarsrc="/etc/kayin.png" avatarshape="circle" comments="20" displayname="Kay" handle="Kayin" originalurl="https://cohost.org/Kayin/post/6177333-so-for-me-a-great-da" publishedat="2024-05-30T00:39:09.290Z" tags=""><noscript>Post by Kay (@Kayin): </noscript><div data-askid="1113086717184706104" class="co-embedded-ask m-3 grid grid-cols-[2rem_1fr] grid-rows-[2rem_1fr] gap-x-3 gap-y-2 rounded-lg border p-3"><div class="flex-0 mask relative aspect-square col-start-1 row-start-1 h-8 w-8"><img src="/etc/icons/dieslbrain.png?dpr=2&amp;width=80&amp;height=80&amp;fit=cover&amp;auto=webp" class="mask mask-circle h-full w-full object-cover" alt="DieselBrain"></div><span class="co-attribution col-start-2 row-start-1 align-middle leading-8"><a class="font-bold hover:underline" href="https://cohost.org/DieselBrain" tabindex="0">@DieselBrain</a> asked: </span><div class="co-prose prose col-start-2 row-start-2"><p>Heya! Really enjoyed reading your critique of Dread even as someone who really liked the game! Youve written about souls stuff before but i saw the swipe you took at Gael and now it has me curious about your feelings on souls style boss design. Got any favs/least favs?</p></div></div></cohost-post>
 
 So for me a great Dark Souls boss needs to be something or someone interesting, something whose existence tells a story, and who is engaging and fun to fight. For me it's rarely the hardest bosses or the ones I struggled with the most, but my favorite Dark Souls boss is **Ludwig**.
 

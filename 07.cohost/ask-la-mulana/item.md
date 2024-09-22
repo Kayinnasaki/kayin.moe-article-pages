@@ -13,19 +13,18 @@ taxonomy:
    - 'La-Mulana'
 ---
 
-<div class="ask" markdown=1>
-**Anonymous User** *asked:*
+<script type="module" src="/etc/cohost-wc.js"></script>
+<link rel="stylesheet" href="/etc/cohost-wc.css" /> 
 
-All of your Metroid write-ups recently have been fantastic, and a great insight into some game design choices and thoughts about genres that I hadn't really thought of before (Seriously, "Metroid isn't about blowing up secret boxes" should be on some game dev's whiteboards in the top left corner as a reminder).
-
-Curious thought, though, have you happened to play La-Mulana and or its sequel? I love them, but their design perplex me in a very unusual way, and I haven't ever seen anyone inspect them under a lens and discuss why the game does or doesn't work, and what the sequel did to change it to be almost more friendly to people (which imo felt like it hurt it's gameplay and vibe a little bit, but I've heard that its also people's preferred game of the two).
-
-Either way, keep up the great work!
-</div>
-
-![](image.png?lightbox)
+<cohost-post avatarsrc="/etc/icons/kayin.png" avatarshape="circle" comments="8" displayname="Kay" handle="Kayin" originalurl="https://cohost.org/Kayin/post/6168675-it-s-tough-i-haven" publishedat="2024-05-29T11:44:52.124Z" tags=""><noscript>Post by Kay (@Kayin): </noscript><div data-askid="1112588629391181198" class="co-embedded-ask m-3 grid grid-cols-[2rem_1fr] grid-rows-[2rem_1fr] gap-x-3 gap-y-2 rounded-lg border p-3"><img src="/etc/icons/anon.png" class="mask mask-squircle col-start-1 row-start-1 h-8 w-8" alt=""><span class="co-attribution col-start-2 row-start-1 align-middle leading-8"><span class="font-bold">Anonymous User</span> asked: </span><div class="co-prose prose col-start-2 row-start-2"><p>All of your Metroid write-ups recently have been fantastic, and a great insight into some game design choices and thoughts about genres that I hadn't really thought of before (Seriously, "Metroid isn't about blowing up secret boxes" should be on some game dev's whiteboards in the top left corner as a reminder).</p>
+<p>Curious thought, though, have you happened to play La-Mulana and or its sequel? I love them, but their design perplex me in a very unusual way, and I haven't ever seen anyone inspect them under a lens and discuss why the game does or doesn't work, and what the sequel did to change it to be almost more friendly to people (which imo felt like it hurt it's gameplay and vibe a little bit, but I've heard that its also people's preferred game of the two).</p>
+<p>Either way, keep up the great work!</p></div></div></cohost-post>
 
 It's tough, I haven't played La Mulana in a LONG time (and never 2). I played the real old fake MSX version. My memory is hugely shakey so take all this with a grain of salt.
+
+[center]
+![](image.png?lightbox)
+[/center]
 
 I made the map above trying to connect some areas, excluding their back sides and like... it kinda STARTS working and quickly falls apart. I had to just throw my hands up in the air and give up and there are still plenty of maps to try and fit in.
 

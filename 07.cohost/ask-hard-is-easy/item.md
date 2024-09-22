@@ -1,7 +1,7 @@
 ---
 title: 'Ask: Making something Hard is Easy'
-date: '27-10-2023'
-publish_date: '27-10-2023'
+date: '27-08-2023'
+publish_date: '27-08-2023'
 taxonomy:
   category:
     - 'Cohost'
@@ -11,10 +11,10 @@ taxonomy:
    - 'Game Design'
 ---
 
-<div markdown=1 class="ask">
-**@valorzard** *asked:*
+<script type="module" src="/etc/cohost-wc.js"></script>
+<link rel="stylesheet" href="/etc/cohost-wc.css" /> 
 
-[https://youtu.be/VkjTeRHV5vo?si=aFDkWimspLswywYD](https://youtu.be/VkjTeRHV5vo?si=aFDkWimspLswywYD) think you might be interested in this video. I'd be interested to hear your thoughts!</div>
+<cohost-post avatarsrc="/etc/icons/kayin.png" avatarshape="circle" comments="1" displayname="Kay" handle="Kayin" originalurl="https://cohost.org/Kayin/post/2638421-yeah-this-is-pretty" publishedat="2023-08-27T09:03:22.269Z" tags="Yes I know there are NES Games with screen stop and shake,and a lot of other modernish feeling stuff,but it effects what era the game feels like it's going from"><noscript>Post by Kay (@Kayin): </noscript><div data-askid="912686654295115109" class="co-embedded-ask m-3 grid grid-cols-[2rem_1fr] grid-rows-[2rem_1fr] gap-x-3 gap-y-2 rounded-lg border p-3"><div class="flex-0 mask relative aspect-square col-start-1 row-start-1 h-8 w-8"><img src="/etc/icons/valorzard.png?dpr=2&amp;width=80&amp;height=80&amp;fit=cover&amp;auto=webp" class="mask mask-squircle h-full w-full object-cover" alt="valorzard"></div><span class="co-attribution col-start-2 row-start-1 align-middle leading-8"><a class="font-bold hover:underline" href="https://cohost.org/valorzard" tabindex="0">@valorzard</a> asked: </span><div class="co-prose prose col-start-2 row-start-2"><p><a href="https://youtu.be/VkjTeRHV5vo?si=aFDkWimspLswywYD" target="_blank" rel="nofollow noopener" tabindex="0">https://youtu.be/VkjTeRHV5vo?si=aFDkWimspLswywYD</a> think you might be interested in this video. I'd be interested to hear your thoughts!</p></div></div></cohost-post>
 
 Yeah this is pretty good. I wanna build on a few things.
 

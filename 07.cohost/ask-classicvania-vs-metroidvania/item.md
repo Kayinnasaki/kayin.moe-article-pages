@@ -13,10 +13,10 @@ taxonomy:
    - 'Castlevania (Classic Era)'
 ---
 
-<div class="ask" markdown=1>
-**@Norithics** *asked:*
+<script type="module" src="/etc/cohost-wc.js"></script>
+<link rel="stylesheet" href="/etc/cohost-wc.css" /> 
 
-Okay so I'm curious! You seem to have a lot to say about the impact of world design, so I'm dying to know if you have Thoughts™ with regards to Classicvania versus Metroidvania. Is one better than the other? Are there different considerations for both??</div>
+<cohost-post avatarsrc="/etc/icons/kayin.png" avatarshape="circle" comments="2" displayname="Kay" handle="Kayin" originalurl="https://cohost.org/Kayin/post/6191405-obviously-you-can-t" publishedat="2024-05-31T01:23:12.636Z" tags=""><noscript>Post by Kay (@Kayin): </noscript><div data-askid="1113969686711633857" class="co-embedded-ask m-3 grid grid-cols-[2rem_1fr] grid-rows-[2rem_1fr] gap-x-3 gap-y-2 rounded-lg border p-3"><div class="flex-0 mask relative aspect-square col-start-1 row-start-1 h-8 w-8"><img src="/etc/icons/norithics.png?dpr=2&amp;width=80&amp;height=80&amp;fit=cover&amp;auto=webp" class="mask mask-squircle h-full w-full object-cover" alt="Norithics"></div><span class="co-attribution col-start-2 row-start-1 align-middle leading-8"><a class="font-bold hover:underline" href="https://cohost.org/Norithics" tabindex="0">@Norithics</a> asked: </span><div class="co-prose prose col-start-2 row-start-2"><p>Okay so I'm curious! You seem to have a lot to say about the impact of world design, so I'm dying to know if you have Thoughts™ with regards to Classicvania versus Metroidvania. Is one better than the other? Are there different considerations for both??</p></div></div></cohost-post>
 
 Obviously you can't quite put one over the other, though... I feel like classicvanias were far more powerful examples of their craft than most of the igavanias (obviously Rondo and SOTN place a lot higher, but the rest...)
 
