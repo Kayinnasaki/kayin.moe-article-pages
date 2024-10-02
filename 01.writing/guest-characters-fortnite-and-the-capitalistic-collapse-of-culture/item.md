@@ -8,6 +8,10 @@ taxonomy:
         - Blog
 date: '17-01-2024 08:44'
 publish_date: '17-01-2024 08:44'
+routes: 
+  default: '/guest-characters'
+  aliases:
+    - '/guest-characters-fortnite-and-the-capitalistic-collapse-of-culture'
 ---
 
 <div class="tweet">

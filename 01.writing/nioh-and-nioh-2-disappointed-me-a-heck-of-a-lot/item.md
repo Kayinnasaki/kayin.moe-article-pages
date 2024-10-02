@@ -12,6 +12,10 @@ taxonomy:
         - Games
     games:
         - 'Nioh (series)'
+routes: 
+  default: '/nioh'
+  aliases:
+    - '/nioh-and-nioh-2-disappointed-me-a-heck-of-a-lot'
 ---
 
 I’m reluctant to say Nioh and Nioh 2 are bad games. A lot of people enjoy the games and when a lot of people enjoy a game — especially a niche game with no brand recognition — it means the game is succeeding at something. These are also games I would never buy for myself. The pitch of “It’s Dark Souls but with Diablo Loot” sounds like such a downgrade for my particular tastes that I’d never bother. “Soulsborne-like” is already a genre I avoid. Fromsoft makes games I enjoy because of their tastes and sensibilities more than anything else. The idea of those games as a “genre” has little appeal to me. Loot and skill trees? Something that tends to actively make me miserable. In short, It’s just not at all a game that would cross into my interest radar.

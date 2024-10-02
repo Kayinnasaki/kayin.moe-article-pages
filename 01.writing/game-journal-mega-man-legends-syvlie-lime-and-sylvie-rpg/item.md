@@ -10,6 +10,10 @@ taxonomy:
     games:
         - 'Mega Man Legends'
         - 'Sylvie Games'
+routes: 
+  default: '/mega-man-legends-syvlie-lime-and-sylvie-rpg'
+  aliases:
+    - '/game-journal-mega-man-legends-syvlie-lime-and-sylvie-rpg'
 ---
 
 *I think I'm gonna save the "Game Journal" moniker for more informal posts where I don't have a real thesis and I'm not proof reeding like crazy. Me just trying to jot down my thoughts. You know, like a **journal**.*

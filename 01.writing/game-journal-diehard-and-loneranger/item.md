@@ -15,6 +15,10 @@ taxonomy:
     games:
         - 'Die Hard(NES)'
         - 'Lone Ranger(NES)'
+routes: 
+  default: '/diehard-and-loneranger'
+  aliases:
+    - '/game-journal-diehard-and-loneranger'
 ---
 
 I find myself a dabbling viewer of Jeff Gerstmann's [Ranking of Every NES game](https://www.youtube.com/watch?v=46AjLP33meU&list=PLDKeuvgV0sxZ_xs4zUvQcMEV-LTjSf-Ok) series. I appreciate [The Science](https://8bitnintendo.science/), even if I can't understand a world where Commando ranks higher than Guerrilla War... but science isn't an *answer*, it is a *process*, and more important than the exact rankings is hearing Jeff's process, hearing him try to decouple his preconceptions from the game sitting before him. While this kind of [tool tip="Big 2000s internet forum energy"]*objective*[/tool] approach is one I find myself trying to get away from, it's still interesting to hear someone older, and with a wider breadth of knowledge, contextualize these games in ways I could not. It's pretty good stuff, though not *the point*. The point is more that in the last episode I watched, he ran into and was taken back by two crazy, ambitious games, Die Hard and The Lone Ranger.

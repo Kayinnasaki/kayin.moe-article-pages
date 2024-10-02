@@ -12,6 +12,10 @@ taxonomy:
         - Games
     games:
         - Sekiro
+routes: 
+  default: '/sekiro'
+  aliases:
+    - '/sekiro-pressed-all-my-buttons-in-the-right-ways-but-probably-could-afford-to-press-them-a-little-less'
 ---
 
 <center markdown="1">#### (but probably could afford to press them a little less) 

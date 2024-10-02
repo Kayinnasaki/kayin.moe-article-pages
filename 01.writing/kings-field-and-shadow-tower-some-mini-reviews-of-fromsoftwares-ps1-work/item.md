@@ -12,6 +12,10 @@ taxonomy:
     games:
         - 'King''s Field (series)'
         - 'Shadow Tower (series)'
+routes: 
+  default: '/kings-field-and-shadow-tower'
+  aliases:
+    - '/kings-field-and-shadow-tower-some-mini-reviews-of-fromsoftwares-ps1-work'
 ---
 
 So when I hang out with my friends, I usually waste time in between chatter playing old games. Often odd or old things I wouldn’t normally bother which but might be of some interest to me from a more… academic perspective. And this usually ends up with me finding new games to love too.

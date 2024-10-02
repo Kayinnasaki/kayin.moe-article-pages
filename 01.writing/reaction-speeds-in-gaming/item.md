@@ -10,6 +10,10 @@ taxonomy:
         - Games
         - 'Fighting Games'
         - Classic
+routes: 
+  default: '/reactions'
+  aliases:
+    - '/reaction-speeds-in-gaming'
 ---
 
 The topic of reaction speeds comes up a lot in my pet-genre of fighting games, especially when talking about casual players. Commonly they will exclaim “I just don’t have the reaction speed to play these games!” which I think is a fundamental misunderstanding of how one’s reactions work. There is a biological component to reaction speed that is hard or perhaps, impossible to improve, but that is not what most people lack. This is much like the concept of APM in RTSs. People commonly exclaim they don’t have the finger speed to play despite easily being able to type over 100 characters a minute. The bottleneck is rarely biological. The bottleneck is in your head.

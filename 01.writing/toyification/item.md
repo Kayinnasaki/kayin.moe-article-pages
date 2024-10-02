@@ -1,4 +1,4 @@
----
+  ---
 title: 'On Toyification'
 date: '19-09-2024'
 publish_date: '19-09-2024'
@@ -10,6 +10,8 @@ taxonomy:
 ---
 
 *Toy* is a term I've been using among [tool tip="It's Mirai, it's always Mirai"]friends[/tool] lately. A term I can use, talking from anything old video game remakes, to character designs, negatively or positively. Of course this doesn't help me when I want to use the term publicly. Saying something is a toy invokes *a lot* of different often contrasting ideas. So for the sake of clarity, I want to share *my* definition.
+
+Also to be clear, I'm going to be talking a lot about remakes and remasters, but this isn't *about* them. Anyone who has read my writing already knows how I stand on these topics. This is about *the term*.
 
 ## What is a Toy
 

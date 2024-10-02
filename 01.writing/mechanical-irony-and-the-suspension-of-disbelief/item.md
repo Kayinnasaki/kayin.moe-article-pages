@@ -11,6 +11,10 @@ taxonomy:
     games:
         - 'Dark Souls (series)'
 media_order: shrineofwinter.jpg
+routes: 
+  default: '/mechanical-irony'
+  aliases:
+    - '/mechanical-irony-and-the-suspension-of-disbelief'
 ---
 
 This kills me. This is right by the Shrine of Winter in Dark Souls 2. This tiny bit of rubble — one that would take two big steps to clear — is responsible for half of your epic journey. You spend hours tracking down powerful souls and risking your life, rather than just finding a stool.

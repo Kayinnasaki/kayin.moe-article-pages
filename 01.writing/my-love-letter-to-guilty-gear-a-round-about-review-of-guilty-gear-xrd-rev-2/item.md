@@ -22,6 +22,10 @@ taxonomy:
         - 'Guilty Gear X2 (series)'
         - 'Guilty Gear Xrd (series)'
         - 'Street Fighter (series)'
+routes: 
+  default: '/gg-love-letter'
+  aliases:
+    - '/my-love-letter-to-guilty-gear-a-round-about-review-of-guilty-gear-xrd-rev-2'
 ---
 
  #### MY HISTORY WITH FIGHTING GAMES, THE FGC, AND HOW MY FIRST LOVE, GUILTY GEAR, HELPED ME GET THROUGH THE PANDEMIC

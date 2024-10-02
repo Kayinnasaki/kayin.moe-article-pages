@@ -13,6 +13,10 @@ taxonomy:
     games:
         - 'King''s Field (series)'
         - 'Shadow Tower (series)'
+routes: 
+  default: '/kings-field-4-and-shadow-tower-abyss'
+  aliases:
+    - '/kings-field-and-shadow-tower-on-the-ps2-some-more-mini-reviews'
 ---
 
 ### King’s Field: The Ancient City

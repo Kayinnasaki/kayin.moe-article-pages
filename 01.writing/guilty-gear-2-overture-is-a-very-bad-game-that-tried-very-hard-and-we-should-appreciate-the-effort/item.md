@@ -4,6 +4,10 @@ media_order: 'imag2.jpg,image1.png,image3.jpg,footer.png,header.png'
 header_image: header.png
 date: '06-05-2021 09:41'
 publish_date: '06-05-2021 09:41'
+routes: 
+  default: '/overture'
+  aliases:
+    - 'guilty-gear-2-overture-is-a-very-bad-game-that-tried-very-hard-and-we-should-appreciate-the-effort'
 taxonomy:
     category:
         - Blog

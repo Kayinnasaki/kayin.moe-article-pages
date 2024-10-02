@@ -10,6 +10,10 @@ taxonomy:
         - 'Game Design'
     games:
         - 'Dark Souls (series)'
+routes: 
+  default: '/demons-souls-remake'
+  aliases:
+    - '/design-lateralism-the-demons-souls-remake-and-why-ai-art-cant-be-creative-but-is-still-inevitable'
 ---
 
 My friend Mirai has been doing her first play through of Demon's Souls and, bless my heart, she's been playing on the PS3. Mirai and I talk a lot about art stuff, so I couldn't help but to throw random screenshots from the Remake at her so we could have a giggle. Surely this wouldn't devolve into hours of screenshot comparing, and grumbling, and... [tool tip="It always ends up as an article, I swear to fucking god Mirai"]*well*[/tool].

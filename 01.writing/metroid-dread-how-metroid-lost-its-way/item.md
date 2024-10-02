@@ -13,6 +13,10 @@ taxonomy:
         - 'Metroid：Dread'
         - 'Super Metroid'
         - 'Metroid II'
+routes: 
+  default: '/metroid-dread'
+  aliases:
+    - '/metroid-dread-how-metroid-lost-its-way'
 ---
 
 > This will not be a Feel Good story about Metroid: Dread finally correcting course. I am here today *to be a hater*. 

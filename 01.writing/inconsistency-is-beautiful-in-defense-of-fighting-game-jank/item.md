@@ -12,6 +12,10 @@ taxonomy:
     games:
         - 'Guilty Gear X2 (series)'
         - 'Guilty Gear Strive'
+routes: 
+  default: '/jank'
+  aliases:
+    - '/inconsistency-is-beautiful-in-defense-of-fighting-game-jank'
 ---
 
 !!! This is a repost of an article from my **[cohost](https://cohost.org/Kayin/post/2590480-inconsistency-is-bea)**, posted on august 23rd, 2023. People seemed to like it a lot though, so I'm reposting it on my blog.

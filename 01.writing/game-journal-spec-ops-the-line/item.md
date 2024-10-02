@@ -1,5 +1,5 @@
 ---
-title: 'Game Journal: Spec Ops: The Line'
+title: 'Spec Ops: The Line'
 header_image: header.png
 date: '25-05-2021 08:23'
 publish_date: '25-05-2021 08:23'
@@ -11,6 +11,10 @@ taxonomy:
         - Games
     games:
         - 'Spec Ops：The Line'
+routes: 
+  default: '/spec-ops'
+  aliases:
+    - '/game-journal-spec-ops-the-line'
 ---
 
 _I’m going to start labeling these writeups differently. I feel conflicted, usually, like I should be writing more, that I should almost be writing a review or something. So now games I play and write about be will be labeled as part of my **Game Journal**. While I’ll try and still give a reasonable amount of context, I am going to write (especially for more well-known game) assuming the reader has at least some familiarity with the game._

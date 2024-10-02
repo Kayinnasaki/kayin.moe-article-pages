@@ -12,6 +12,10 @@ taxonomy:
         - 'Game Log'
     games:
         - 'Street Fighter (series)'
+routes: 
+  default: '/street-fighter-6'
+  aliases:
+    - '/street-fighter-6s-world-tour-mode-is-a-lost-ps2-game'
 ---
 
 ## I Wanna talk about World Tour Mode, but I gotta talk about the Actual Game First

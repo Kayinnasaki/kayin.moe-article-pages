@@ -8,6 +8,10 @@ taxonomy:
         - Blog
     games:
         - 'Castlevania (Classic Era)'
+routes: 
+  default: '/vrc6-mod'
+  aliases:
+    - '/nes-vrc6-mod-with-cv3-akumajou-densetsu-cart'
 ---
 
 [splitbox class="splitboxsmall"]

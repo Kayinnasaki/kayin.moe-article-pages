@@ -1,5 +1,5 @@
 ---
-title: 'Game Journal: Battletech (2018)'
+title: 'Battletech (2018)'
 media_order: 'BT1.png,BT2.jpg,BT3.jpg,BT4.jpg,Footer.jpg,Header.png'
 header_image: Header.png
 date: '23-07-2021 10:08'
@@ -12,6 +12,10 @@ taxonomy:
         - Games
     games:
         - 'Battletech (2018)'
+routes: 
+  default: '/battletech-2018'
+  aliases:
+    - '/game-journal-battletech-2018'
 ---
 
 Before I get started, lemme say that I have a very deep and personal relation with Battletech. From Mechwarrior 2, to painting figures and playing the table-top, to running campaigns over Megamek. Battletech, and it’s awkward, chunky aesthetic and it’s weird neo feudalism will always deeply appeal to me.
