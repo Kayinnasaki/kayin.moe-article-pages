@@ -17,6 +17,8 @@ I suspect these changes should be painless, but lemme know if anything gets weir
 
 I've also removed "Game Journal:" from the title of some older articles. No one should care. Now, Game Journal should ONLY refer to grab-bags and shorts, and not full, in depth write-ups.
 
+**Edit**: Thank you Camille for the heads up that the RSS feeds were broken due to a bug with the direct rules. I've modified things to make them work but it involved moving the RSS feeds. They SHOULD auto redirect, but if you have any problems, [tool tip="... My email link, which was ALSO broken until Camille pointed it out"]please email me[/tool].
+
 *(There is not actually more to read, I'm just making sure it shows the whole post)*
 
 ===
