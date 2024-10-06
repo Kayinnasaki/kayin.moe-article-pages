@@ -7,8 +7,61 @@ visible: false
 nodate: 1
 header_image: '../header.gif'
 header_class: frontheader
-minheader_image: 'header.png'
+minheader_image: 'default'
 ---
+
+<div markdown="1" style="margin-top:-50px">
+[splitbox side="right"]
+<div class="frontside" markdown="1">
+### Recent Writing
+
+{% include 'partials/recent.html.twig' with { 'taxonomy_type': 'category', 'taxonomy_': 'Blog', 'limit': 5 } %}
+</div>
+++++
+<br>
+<div style="display:flex" markdown="1">
+<div class="frontavatardiv"><img class="frontavatar" src="/etc/icons/kayin.png"></div>
+<div markdown="1">Hey! I'm **Kayin**, the Indie Game Developer who created [*I Wanna be the Guy*](https://iwbtg.kayin.moe), and [*I Wanna be the Guy: Gaiden*](https://kayin.itch.io/iwbtgg). I'm [tool tip="That's a lie"]currently working[/tool] on [*Brave Earth: Prologue*](/../brave-earth).</div>
+</div>
+If you want to know more about me, personally, you can check out my [About Page](/../about) or follow me on social media!
+
+If you're interested in my thoughts on game design and other topics, please feel to read through [My Writing](/../posts). If you're not sure what to read, you could try...
+
+* [Reaction Speeds in Gaming](/../reactions)
+* [Metroid: Dread - How Metroid Lost its Way](/../metroid-dread)
+* [Dragon's Dogma wants you to Choose](/../dragons-dogma-wants-you-to-choose)
+
+You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read!
+
+Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** and **Light mode**!
+
+[/splitbox]
+
+[center]
+# Friends of the Site
+[/center]
+
+<div class="linkbox">
+    <a href="https://zaratustra.itch.io/"><div style="background: url(links/zara.png); background-repeat: no-repeat;" class="box8831">Zaratustra Productions</div></a>
+    <a href="https://surasshu.com/"><img class="img8831" src="links/surasshu.gif"></a>
+    <a href="https://sylvie.website/"><div style="background: url(links/sylvie.png)" class="box8831">Sylvie Games</div></a>
+    <a href="https://aria.garden/"><div style="background: url(links/aria.png)" class="box8831">Aria's Garden</div></a>
+</div>
+<div class="linkbox">
+    <a href="https://blog.aurahack.jp/"><img class="img8831" src="links/aurahack.gif"></a>
+    <a href="https://doodlemancy.com/"><img class="img8831" src="links/doodlemancy.png"></a>
+    <a href="https://itsmelilyv.com/"><img class="img8831" src="https://itsmelilyv.com/assets/site_image/itsmelilyv_88x31.gif"></a>
+</div>
+[center]
+### Link to my blog!
+<div class="linkbox">
+    <img class="img8831" src="links/iwasoncohost.gif">
+    <img class="img8831" src="links/kayinworks.gif">
+    <img class="img8831" src="links/debian.gif">
+</div>
+<textarea name="buttoncode" class="center" aria-label="Button code" style="color: #292929; resize: none;margin-top: 0px; font-size: 0.7rem; width: 168px; height: 40px; margin-bottom: 0.5rem;"><a href="https://kayin.moe"><img src="https://kayin.moe/links/kayinworks.gif"></a></textarea>
+[/center]
+</div>
 
 <style>
     html[data-theme="light"] {
@@ -98,55 +151,3 @@ minheader_image: 'header.png'
         }
     }
 </style>
-<div markdown="1" style="margin-top:-50px">
-[splitbox side="right"]
-<div class="frontside" markdown="1">
-### Recent Writing
-
-{% include 'partials/recent.html.twig' with { 'taxonomy_type': 'category', 'taxonomy_': 'Blog', 'limit': 5 } %}
-</div>
-++++
-<br>
-<div style="display:flex" markdown="1">
-<div class="frontavatardiv"><img class="frontavatar" src="/etc/icons/kayin.png"></div>
-<div markdown="1">Hey! I'm **Kayin**, the Indie Game Developer who created [*I Wanna be the Guy*](https://iwbtg.kayin.moe), and [*I Wanna be the Guy: Gaiden*](https://kayin.itch.io/iwbtgg). I'm [tool tip="That's a lie"]currently working[/tool] on [*Brave Earth: Prologue*](/../brave-earth).</div>
-</div>
-If you want to know more about me, personally, you can check out my [About Page](/../about) or follow me on social media!
-
-If you're interested in my thoughts on game design and other topics, please feel to read through [My Writing](/../posts). If you're not sure what to read, you could try...
-
-* [Reaction Speeds in Gaming](/../reactions)
-* [Metroid: Dread - How Metroid Lost its Way](/../metroid-dread)
-* [Dragon's Dogma wants you to Choose](/../dragons-dogma-wants-you-to-choose)
-
-You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read!
-
-Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** and **Light mode**!
-
-[/splitbox]
-
-[center]
-# Friends of the Site
-[/center]
-
-<div class="linkbox">
-    <a href="https://zaratustra.itch.io/"><div style="background: url(links/zara.png); background-repeat: no-repeat;" class="box8831">Zaratustra Productions</div></a>
-    <a href="https://surasshu.com/"><img class="img8831" src="links/surasshu.gif"></a>
-    <a href="https://sylvie.website/"><div style="background: url(links/sylvie.png)" class="box8831">Sylvie Games</div></a>
-    <a href="https://aria.garden/"><div style="background: url(links/aria.png)" class="box8831">Aria's Garden</div></a>
-</div>
-<div class="linkbox">
-    <a href="https://blog.aurahack.jp/"><img class="img8831" src="links/aurahack.gif"></a>
-    <a href="https://doodlemancy.com/"><img class="img8831" src="links/doodlemancy.png"></a>
-    <a href="https://itsmelilyv.com/"><img class="img8831" src="https://itsmelilyv.com/assets/site_image/itsmelilyv_88x31.gif"></a>
-</div>
-[center]
-### Link to my blog!
-<div class="linkbox">
-    <img class="img8831" src="links/iwasoncohost.gif">
-    <img class="img8831" src="links/kayinworks.gif">
-    <img class="img8831" src="links/debian.gif">
-</div>
-<textarea name="buttoncode" class="center" aria-label="Button code" style="color: #292929; resize: none;margin-top: 0px; font-size: 0.7rem; width: 168px; height: 40px; margin-bottom: 0.5rem;"><a href="https://kayin.moe"><img src="https://kayin.moe/links/kayinworks.gif"></a></textarea>
-[/center]
-</div>
