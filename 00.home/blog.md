@@ -9,5 +9,6 @@ content:
         dir: desc
 title: Writing
 child_type: item
+routes: 
+  default: '/posts'
 ---
-

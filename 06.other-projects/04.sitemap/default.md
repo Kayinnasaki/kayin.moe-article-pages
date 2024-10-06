@@ -3,6 +3,7 @@ process:
     markdown: true
     twig: true
 title: 'Site Map'
+cache_enable: false
 nodate: '1'
 ---
 <style type="text/css" media="screen">

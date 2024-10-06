@@ -2,6 +2,7 @@
 title: 'Links and Friends'
 routable: true
 nodate: '1'
+visible: false
 ---
 
 <style>
