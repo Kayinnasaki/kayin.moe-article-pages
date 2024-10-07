@@ -1,5 +1,13 @@
 ---
 title: 'Kayin Works'
+content:
+    items:
+        '@taxonomy':
+            category:
+                - Blog
+    order:
+        by: date
+        dir: desc
 process:
     markdown: true
     twig: true
