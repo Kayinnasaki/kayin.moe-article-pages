@@ -33,7 +33,10 @@ If you're interested in my thoughts on game design and other topics, please feel
 
 You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read!
 
-Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** and **Light mode**!
+Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** <span markdown="1" onclick="
+        document.getElementById('656ce704adc484ac544535745594cbc1').togglePopover();
+        neo();"
+    class="tooltip" title="AND a secret theme...">and<span markdown="1" id="656ce704adc484ac544535745594cbc1" class="tiptext" popover="auto"><em>(AND a secret theme...)</em></span></span> **Light mode**!
 
 [/splitbox]
 
@@ -64,6 +67,10 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
 </div>
 
 <style>
+    :root {
+    --color-titlenubs: #a6222a;
+    }
+
     html[data-theme="light"] {
     --color-bg: whitesmoke;
     --color-text: #1f1f1f;
@@ -73,6 +80,10 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     --color-noticebg: #f4f8fa;
     --color-scroll: initial;
     --color-scroll2: initial;   
+    }
+
+    html[data-theme="pink"] {
+    --color-titlenubs: #ca2630;  
     }
     
     .img8831 {
@@ -107,16 +118,17 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
         color: #fff;
         font-family: Bitfont;
         word-spacing: -73px;
+        filter: hue-rotate(var(--hue-rotate));
     }
 
     .frontheader h2::before {
         content: "[";
-        color: #a6222a; /* Make the opening bracket red */
+        color: var(--color-titlenubs); /* Make the opening bracket red */
     }
 
     .frontheader h2::after {
         content: "]";
-        color: #a6222a; /* Make the opening bracket red */
+        color: var(--color-titlenubs); /* Make the opening bracket red */
     }
 
     .frontside {
