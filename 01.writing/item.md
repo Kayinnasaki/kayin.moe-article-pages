@@ -62,6 +62,7 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     <a href="https://blog.aurahack.jp/"><img class="img8831" src="links/aurahack.gif"></a>
     <a href="https://doodlemancy.com/"><img class="img8831" src="links/doodlemancy.png"></a>
     <a href="https://itsmelilyv.com/"><img class="img8831" src="https://itsmelilyv.com/assets/site_image/itsmelilyv_88x31.gif"></a>
+    <a href="https://automatictiger.neocities.org/"><img class="img8831" src="https://automatictiger.neocities.org/images/AstreaLinkButton.png"></a>
 </div>
 [center]
 ### Link to my blog!
@@ -100,7 +101,7 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     
     .img8831 {
         width:176px;
-        height:62;
+        height:62px;
         image-rendering: pixelated;
     }
 
