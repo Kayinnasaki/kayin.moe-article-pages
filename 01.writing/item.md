@@ -90,7 +90,11 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     --color-scroll2: initial;   
     }
 
-    html[data-theme="pink"] {
+    html[data-theme="neodark"] {
+    --color-titlenubs: #ca2630;  
+    }
+
+    html[data-theme="neolight"] {
     --color-titlenubs: #ca2630;  
     }
     
