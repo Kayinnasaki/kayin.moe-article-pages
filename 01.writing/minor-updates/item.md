@@ -14,3 +14,5 @@ I also recently redid a huge amount of URLs in an attempt to have cleaner, less 
 I've also removed "Game Journal:" from the title of some older articles. No one should care, but it's use felt arbitrary. Now, Game Journal should ONLY refer to grab-bags and shorts, and not full, in depth write-ups.
 
 Also thank you Camille for the heads up that the RSS feeds were broken due to a bug I introduced while starting these changes. I've modified things to make them work but it involved moving the RSS feeds. They SHOULD auto redirect, but if you have any problems, [tool tip="... My email link, which was ALSO broken until Camille pointed it out"]please tweet or email me[/tool].
+
+**edit:** I moved the RSS feed AGAIN but this should be the last time. I got a better understanding of what's going on with things now with the rss plugin.
