@@ -29,6 +29,6 @@ a:hover { color: var(--color-link); }
 
 ### List of Games Mentioned
 <div markdown=1 class="flextags">
-{% include 'partials/taxonomylist.html.twig' with {base_url: my_url, taxtype: 'games', listtype: 'full' } %}
+{% include 'partials/taxonomylist.html.twig' with {base_url: '', taxtype: 'games', listtype: 'full' } %}
 </div>
 </div>

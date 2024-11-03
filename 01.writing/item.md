@@ -1,19 +1,11 @@
 ---
 title: 'Kayin Works'
-content:
-    items:
-        '@taxonomy':
-            category:
-                - Blog
-    order:
-        by: date
-        dir: desc
 process:
     markdown: true
     twig: true
 visible: false
 nodate: 1
-header_image: '../header.gif'
+header_image: '../header.webp'
 header_class: frontheader
 minheader_image: 'default'
 ---

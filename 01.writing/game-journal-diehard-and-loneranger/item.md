@@ -3,7 +3,7 @@ title: 'Game Journal: Die Hard and the Lone Ranger are Pretty Neat?'
 published: true
 date: '07-07-2024'
 publish_date: '07-07-2024'
-header_image: 'header.gif'
+header_image: 'header.webp'
 header_class: crisp
 minheader_image: 'header.png'
 taxonomy:
