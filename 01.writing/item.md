@@ -40,6 +40,8 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
 
 [/splitbox]
 
+!!! **07/11/2024** Recently Updates the themes to ones I've been tested. The old ones are still around, if you can find them! Feel free to send feedback to any of the usual places.
+
 [center]
 # Friends of the Site
 [/center]
