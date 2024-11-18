@@ -8,6 +8,7 @@ nodate: 1
 header_image: '../header.webp'
 header_class: frontheader
 minheader_image: 'default'
+never_cache_twig: true
 ---
 
 <div markdown="1" style="margin-top:-50px">
