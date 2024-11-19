@@ -73,9 +73,13 @@ Now, it can have drawbacks. Some people go far out into the weeds that they forg
 
 *You need the right region, with the right settings, on the right emulator and shaders, no wait on a [tool tip="The advantages of which certainly exist but are also largely overstated, especially at the price. It is, at the end of the day, still emulation and most accurate FPGA emulators are already cycle accurate in pure software. The reduced latency and native CRT support is nice, though 😌"]MiSTer[/tool], no wait real hardware only and a CRT -- oh no CRT? Then you need a $300 scaler, with the -- wait you played the 1.1 rom revision?? They only released a thousand of those at the end of the console's life, it's not really the same thing and...* 
 
+<<<<<<< HEAD
 Most people aren't like this though and once you feel satisfied with your experience with a game... why shouldn't you play around with it? Why *not* mod it to all hell or playing some weird versions? Those are a part of history too. The problem is never are desire to play around with the culture and media that influences us. The problem is only that the culture around gaming encourages us to do this both frivolously and compulsively, almost like we're inherently hostile to the idea of games as artistic works. People will dive into modding new games before they've even played them enough to figure out what they even *should* mod.
 
 ... But art isn't precious and untouchable either. Some of the best *weird art* comes from pulling apart the [tool tip="Don't look at me"]works of other[/tool]. Like many things, it's about balance.
+=======
+Most people aren't like this though and once you feel satisfied with your experience with a game... why couldn't, or sometimes even *wouldn't* play around, modding it to all hell or playing some weird versions? Those are a part of history too.
+>>>>>>> 6740c8b3360fd0d6af9b4a285a787672080b6d81
 
 ## Yelling at Clouds
 
@@ -83,7 +87,11 @@ So I gave two kinda misguided reasons and two pretty good reasons, but ultimatel
 
 But still I want to ask... *why?* Why do we feel the need to do this? This weird ritual where we take an old game, grind it to dust, and then try to blow it's soul into some new, shinier vessel. I was talking about Half-Life on [bluesky](https://bsky.app/profile/kayin.moe/post/3lazmi27h6c2b) and of course Black Mesa came up a lot. I don't terribly have a lot of interest in it, but it seems pretty inspired, especially compared to most remakes. Usually the problem is that companies take an **A-Team** game, and give it to the **C-Team**, acting like the march of time will make up for the difference in skill. Black Mesa, by comparison... that modding team really does seem like an indie A-Team.
 
+<<<<<<< HEAD
 It's still not Half-Life 1. It can give you the stories and moments of Half-Life 1, but it's not that game. A [tool tip="No shade, Saturn, I'm not putting you on blast 😭"]friend[/tool] on Bluesky said that it's worth it just to see the new [tool tip="Xen in HL1 isn't even that bad. Like it's the low point, sure, but it's not THAT bad"]Xen[/tool] stuff... This kinda stewed in my head for hours like... Why? I have thousands of videogames to play. I like Half-Life 1 but do I like it enough to wanna basically play Xen Fanfiction? Do I care about Half-Life as a property enough to want a *fix-it fic?* This isn't to be disparaging either. Fanfiction rules! There are some games I've loved enough where I *did* want *exactly* that! I'm not the biggest fan of **AM2R**, but I care about Metroid enough that [tool tip="Like a lot of fanfic, playing AM2R left me feeling like 'This is well written, I just... don't feel like we watched the same show'"]*yeah, I did kinda wanna see some fanfic*[/tool].
+=======
+... Still, it's not Half-Life 1. It can give you the stories and moments of Half-Life 1, but it's not that game. A [tool tip="No shade, Saturn, I'm not putting you on blast 😭"]friend[/tool] on Bluesky said that it's worth it just to see the new [tool tip="Xen in HL1 isn't even that bad. Like it's the low point, sure, but it's not THAT bad"]Xen[/tool] stuff... This kinda stewed in my head for hours like... Why? I have thousands of videogames to play. I like Half-Life 1 but do I like it enough to wanna basically play Xen Fanfiction? Do I care about Half-Life as a property enough to want a *fix-it fic?* This isn't to be disparaging either. Fanfiction rules! There are some games I've loved enough where I *did* want *exactly* that! I'm not the biggest fan of **AM2R**, but I care about Metroid enough that [tool tip="Like a lot of fanfic, playing AM2R left me feeling like 'This is well written, I just... don't feel like we watched the same show'"]*yeah, I did kinda wanna see some fanfic*[/tool].
+>>>>>>> 6740c8b3360fd0d6af9b4a285a787672080b6d81
 
 The weird part is how we talk about these games like they can just slot in as a replacement, despite coming from very different places than the originals. There is this gamer urge that bugs me that we need to fix and modernize everything when, to me, a lot of the value of Half-Life 1 is that it *is* a game from 1998. if I want to super optimize and polish over my HL1 experience, I probably shouldn't be playing HL1, I should probably be playing a modern AAA game. What do I get from putting HL1 in modern cosplay?
 
@@ -91,4 +99,8 @@ When I watched the early 2000s prestige TV show [tool tip="I hate to report that
 
 Back in the day people would rally against [Pan-and-Scan](https://en.wikipedia.org/wiki/Pan_and_scan) home movie releases. When wide screen TVs came out, many of us celebrated the fact we were finally over this problem, only for us to immediately re-invent the problem again. Many will gladly shed context and artistic intent if it'll be a little smoother, more technically "perfect" experience. We try and optimize our experience, but what are we really optimizing for? Are we really optimizing for the best experience, or are we just optimizing for *expectations*? Aren't our screens, and our GPU, and other things *tools*? Why do we prioritize using as much of them as we can rather than the artistic intentions of the things we claim to enjoy?
 
+<<<<<<< HEAD
 So I guess my question is, despite the low stakes, despite the perfectly valid reasons... Why *do you* want to play a remake?
+=======
+So I guess my question is, despite the low stakes, despite the perfectly valid reasons... Why *do you* wanna play a remake?
+>>>>>>> 6740c8b3360fd0d6af9b4a285a787672080b6d81
