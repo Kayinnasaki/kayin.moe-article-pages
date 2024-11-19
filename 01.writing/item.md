@@ -41,6 +41,8 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
 
 [/splitbox]
 
+!!! **18/11/2024** Some blog posts, mostly going into the future, will have comments through Bluesky. You can see an example of this on the Remakes article.
+
 !!! **07/11/2024** Recently Updates the themes to ones I've been tested. The old ones are still around, if you can find them! Feel free to send feedback to any of the usual places.
 
 [center]

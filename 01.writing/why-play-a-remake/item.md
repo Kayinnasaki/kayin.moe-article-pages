@@ -3,13 +3,14 @@ title: 'Why Do You Want To Play a Remake?'
 date: '17-11-2024'
 publish_date: '17-11-2024'
 header_image: header.jpg
+comments: 3lb6usi5dxs2a
+never_cache_twig: true
 taxonomy:
     category:
         - Blog
     tag:
         - Games
 ---
-
 This is a question I've been asking a lot. Anyone who knows my writing knows I *kinda hate* most remasters, and am pretty hard on remakes. I don't expect everyone to have my values here. Nor should you. We all have different reasons to play games. We all enjoy different parts of them. I like history almost as much as the games themselves.
 
 In discussion though, I'll see some reoccurring reasonings pop up, and I feel compelled to walking through some of them, especially after seeing some people confuse my [On Toyification](../toyification) as me attacking remakes in a [tool tip="People on the Resetera forum were like 'wow why are they using such a weird metaphor and making up a word to say they hate remakes' not realizing that the word WAS the point and I took my opinions on remakes as a given"]weird, round about way[/tool]. Instead, let me write something a bit more *direct* on the subject, while trying to fairly walk through some reasons(both good and bad) that people seem to approach remakes with.
@@ -24,7 +25,7 @@ Half of the Silent Hill 2 fans out there will tell you the remake is great, and 
 
 *The Silent Hill 2 Remake is not Silent Hill 2*
 
-SH2 Remake is a pretty substantive remake. If you play it, you haven't *caught up on Silent Hill 2*, you *played a different game*. A game *deeply inspired* by the orignal, and a game that *could* be good. A game that, in theory, it could be on it's own merits even better. The same situation has played out with Resident Evil 2. Both the original and the remake stand on their own as unique games, each with their own cultural value. Regardless of which you have preference for, *these experiences are not fungible*. 
+SH2 Remake is a pretty substantive remake. If you play it, you haven't *caught up on Silent Hill 2*, you *played a different game*. A game *deeply inspired* by the original, and a game that *could* be good. A game that, in theory, it could be on it's own merits even better. The same situation has played out with Resident Evil 2. Both the original and the remake stand on their own as unique games, each with their own cultural value. Regardless of which you have preference for, *these experiences are not fungible*. 
 
 Transformative remakes and adaptations like this span all art. Few people know about 1960's Frank Sinatra movie, **Ocean's 11**, but most are at least familiar with the 2001 remake. So while this isn't new, with games it... getc complicated. [The Gaming Brit](https://www.youtube.com/watch?v=sloxE1MsE_k) makes the point that while Disney's **The Little Mermaid** is an adaptation of a 1837 fairy tail, we don't treat the two as *the same* in the same way we do with games. Gaming doesn't have very many examples like **Scarface** or **True Grit**. Our remakes tend to be closer to to the 1998 remake of **Psycho**, a slavish remake, seen by many to be devoid of any artistic value.
 
@@ -72,7 +73,7 @@ Now, it can have drawbacks. Some people go far out into the weeds that they forg
 
 *You need the right region, with the right settings, on the right emulator and shaders, no wait on a [tool tip="The advantages of which certainly exist but are also largely overstated, especially at the price. It is, at the end of the day, still emulation and most accurate FPGA emulators are already cycle accurate in pure software. The reduced latency and native CRT support is nice, though 😌"]MiSTer[/tool], no wait real hardware only and a CRT -- oh no CRT? Then you need a $300 scaler, with the -- wait you played the 1.1 rom revision?? They only released a thousand of those at the end of the console's life, it's not really the same thing and...* 
 
-Most people aren't like this though and once you feel satisfied with your experience with a game... why couldn't, or even *wouldn't* you play around with it? Why *not* mod it to all hell or playing some weird versions? Those are a part of history too. The problem is never are desire to play around with the culture and media that influences us. The problem is only that the culture around gaming encourages us to do this both frivolously and compulsively, almost like we're inherently hostile to the idea of games as artistic works. People will dive into modding new games before they've even played them enough to figure out what they even *should* mod.
+Most people aren't like this though and once you feel satisfied with your experience with a game... why shouldn't you play around with it? Why *not* mod it to all hell or playing some weird versions? Those are a part of history too. The problem is never are desire to play around with the culture and media that influences us. The problem is only that the culture around gaming encourages us to do this both frivolously and compulsively, almost like we're inherently hostile to the idea of games as artistic works. People will dive into modding new games before they've even played them enough to figure out what they even *should* mod.
 
 ... But art isn't precious and untouchable either. Some of the best *weird art* comes from pulling apart the [tool tip="Don't look at me"]works of other[/tool]. Like many things, it's about balance.
 
