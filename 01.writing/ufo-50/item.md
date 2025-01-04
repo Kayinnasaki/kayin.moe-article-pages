@@ -14,29 +14,29 @@ taxonomy:
     - 'UFO 50'
 ---
 
-Blogging as I go has definitely left me without games for a year end wrap up. How fortunate for me that my friend Ash paid copy of UFO 50 in front of my steam library, destroying my next month and giving me more games to talk about than I've had in years.
+Blogging as I go has definitely left me without games for a year end wrap up. How fortunate for me that my friend Ash put a paid copy of UFO 50 in front of my steam library, destroying my next month and giving me more games to talk about than I've had in years.
 
-Mossmouth's incredible collection of games, framed a recovered and cracked archival anthology for a fictional computer system(the LX-III), overachieves in every way. UFO 50 could be half as good, with none of the best games I'm going to talk about, and it'd still be worthwhile. Instead, it's something that will likely be legendary.
+Mossmouth's incredible collection of games, framed as a recovered and cracked archival anthology for a fictional computer system(the LX-III), overachieves in every way. UFO 50 could be half as good, with none of the best games I'm going to talk about, and it'd still be worthwhile. Instead, it's something that will likely be legendary.
 
 UFO 50 has a bigger selection of "Must Play" games than [tool tip="I like UFO 50 better than the Megadrive, but what *don't* I like better than the megadrive?"]many older consoles[/tool].
 
-Such comparisons are a bit unfair, though. While UFO 50 tries to lean into it's conceit, it lack verisimilitude. Some of the earlier games are simplier, and some of the later games are more complex, it isn't 100% committed to the bit. It' can't be. This is just the brutal reality for a collection of game, made by a handful of people, over what I believe was the last decade.
+Such comparisons are a bit unfair, though. While UFO 50 tries to lean into it's conceit, it lacks verisimilitude. Although some of the earlier games are simpler and some of the later games are more complex, it isn't 100% committed to the bit. It can't be. This is just the brutal reality for a collection of games, made by a handful of people, over what I believe was the last decade.
 
-While this might mirror the actual life of a console, goals drift, both over time and from developer to developer. The LX series of personal computers would also be an early innovator in deck builders, roguelites, metroidvanias, and other genres.
+While this might mirror the actual life of a console, goals drift. Both over time and from developer to developer. The LX series of personal computers would also be an early innovator in deck builders, roguelites, metroidvanias, and other genres.
 
-This *isn't a criticism* as much as it'd about realistic expectations for what is already an absurdly ambitious triumph. The collection would be worse off by trying to be too simulationist about this. 
+This *isn't a criticism* as much as it's about realistic expectations for what is already an absurdly ambitious triumph. The collection would be worse off by trying to be too simulationist about this. 
 
-Instead it creates a more... cartoony, playful alternative history, complete with fake credits and trivia. You learn to know what to expect from certain developers, especially since they seem to be linked to the real life Developers of each game. The Spelunky composer, who turns out to be a genius game design sicko, Eirik Suhrke, for example, has his games listed under the character of Thorson Petter, where Derek Yu wears many different fictional hats. There is a whole meta story that's fun to dig into, complete with secret content, where you learn about the corporate drama. It's all fun and exaggerated, fitting the exaggerated nature of UFO 50.
+Instead it creates a more... cartoony, playful alternative history, complete with fake credits and trivia. You learn to know what to expect from certain developers, especially since they seem to be linked to the real life developers of each game. The Spelunky composer, who turns out to be a genius game design sicko, Eirik Suhrke, for example, has his games listed under the character of Thorson Petter, whereas Derek Yu wears many different fictional hats. There is a whole meta story that's fun to dig into, complete with secret content, where you learn about the corporate drama. It's all fun and exaggerated, fitting the exaggerated nature of UFO 50.
 
 There is even an argument to be made that some of the worst games in this collection are intentional parts of the narrative. Now, I don't 100% buy that... I feel like to make a collection of 50 games, sometimes you just gotta let some games ship, even if they're not great. Heck, not being great even adds to the experience. 
 
-A few weak games barely matter anyways when the quality ratio of UFO 50 is **so high**. Way way higher than I ever thought it *could* be. Higher and **longer**. I was expecting... half-games. Or something like demos. Instead, most games in the collection feel about 75% away from what people would expect of a full release. Missing an extra stage or two, another map. Some already feel like full length releases, and others would only suffer if that "missing 25%". Like the rare 45-60 minute movie, they're as long as they need to be, but struggle to find context outside of compilations and anthologies. UFO 50 suites them perfect.
+A few weak games barely matter anyways when the quality ratio of UFO 50 is **so high**. Way way higher than I ever thought it *could* be. Higher and **longer**. I was expecting... half-games. Or something like demos. Instead, most games in the collection feel about 75% of what people would expect of a full release. Missing an extra stage or two, another map. Some already feel like full length releases, and others would only suffer if that "missing 25%" was there. Like the rare 45-60 minute movie, they're as long as they need to be, but struggle to find context outside of compilations and anthologies. UFO 50 suits them perfectly.
 
 So when I criticize or make fun of a few games, know it is with respect for what was accomplished here. UFO 50 is incredible and even for any game I hate, there is someone who loves it. Every game in this collection has a fan. Even [tool tip="I'm sorry, Star Waspir Person"]Star Waspir.[/tool]
 
 ** The Tier List **
 
-This is a 100% bias tierlist, based on my tastes and interests. Ignoring a few placements, I think it's kinda a safe list for a certain type of player? There's probably three of four basic tier list templates you could make based on peoples favorite genres. So this is *in no ways*, **even remotely**, a trustworthy list. There are games that people love that just *do not work for me*. But if you follow me and read my stuff, then you know me, and you know my taste.
+This is a 100% biased tierlist, based on my tastes and interests. Ignoring a few placements, I think it's kinda a safe list for a certain type of player? There's probably three of four basic tier list templates you could make based on peoples favorite genres. So this is *in no ways*, **even remotely**, a trustworthy list. There are games that people love that just *do not work for me*. But if you follow me and read my stuff, then you know me, and you know my taste.
 
 Also like any tier list, its fun to look at, but less interesting and informative than the actual explanation. Games are rated without considering any meta-narrative importance, though they are still judged within the context of being in a 50 game collection.
 
@@ -87,7 +87,7 @@ li {
 
 Motherfucking *Mooncat*, man. The great neutralizer. ~~Eirik Suhrke~~Thorson Petter's games are always a mad trip of weird aesthetic, surrealism, and weird mechanical choices. The vibe is always captivating but slightly *off*, and Mooncat embodies this the most. 
 
-Mooncat has a strange, two 'button' (one of the 'buttons' is the dpad) control scheme that makes moving and jumping feel fresh and new. You are back to people a clumsy kid, relearning from scratch. 
+Mooncat has a strange, two 'button' (one of the 'buttons' is the dpad) control scheme that makes moving and jumping feel fresh and new. You are back to being a clumsy kid, relearning from scratch. 
 
 I made my friend Ben play this, who was not at all a platformer person and he loved it. He didn't do much worse than the rest of us did, because again, the unique control scheme makes us all beginners again. A game I'd make almost anyone play, given the chance.
 
@@ -103,7 +103,7 @@ Water Bears are a cosmic horrors.
 
 ## Mortol
 
-Who amongst us would not lay our lives down for Mortolia? Grim, funny, and straight up tonally weird. The conceit takes the sacrificial nature of some **Lemmings** jobs and turns it into the central mechanic. You have only so many men, who are willing the sacrifice themselves powerful rituals like *stone*, *arrow*, and *explosion*, to fight back against the evils threatening Mortalia. There is a dark comedy to watching the poor, helpless men of Mortalia throw their lives away, often literally to be stepping stones. You collect new recruits as you go, hopefully bringing enough bodies to throw at the evil that threatens the city.
+Who amongst us would not lay our lives down for Mortolia? Grim, funny, and straight up tonally weird. The conceit takes the sacrificial nature of some **Lemmings** jobs and turns it into the central mechanic. You have only so many men, who are willing to sacrifice themselves through powerful rituals like *stone*, *arrow*, and *explosion*, to fight back against the evils threatening Mortalia. There is a dark comedy to watching the poor, helpless men of Mortalia throw their lives away, often literally to be stepping stones. You collect new recruits as you go, hopefully bringing enough bodies to throw at the evil that threatens the city.
 
 Just a brilliant game, in concept and tone.
 
@@ -125,7 +125,7 @@ What if Mortol was a Metroidvania with a class system? This game has been creepi
 
 Even once you clear it, a special mode exists which limits your class selection. This requires creative problem solving to route out different ways to destroy the great evil.
 
-It doesn't quite hit as perfectly for me as Mortal 1, but it's so clever and uniquely it's own thing.
+It doesn't quite hit as perfectly for me as Mortol 1, but it's so clever and uniquely it's own thing.
 
 # Incredible
 
@@ -139,7 +139,7 @@ I worried Warptank would get too "puzzly" due its mechanics, and while it *does*
 
 ## Valbrace
 
-**Wizardy** meets **Punch-out**, complete with incredible art and animation. A dungeon crawler where you can resist all attrition by *getting good*. This is a game that could be expanded so far if they wanted. It's length is perfect for UFO 50 but this is one of the few games that could half, if they wanted, 5 times the content.
+**Wizardy** meets **Punch-out**, complete with incredible art and animation. A dungeon crawler where you can resist all attrition by *getting good*. This is a game that could be expanded so far if they wanted. It's length is perfect for UFO 50 but this is one of the few games that could have half or, if they wanted, 5 times the content.
 
 I don't know if I'd replay Valbrace, but I would be excited for a sequel.
 
@@ -167,24 +167,24 @@ Let's move from paragraphs to sentences.
 <h2 class="hiddenh">Rail Heist</h2>
 **Rail Heist** is a cool, unique action/turn-based heist game that is chaotic, frustrating, and... just cool. It's hard to explain how the mechanics work and I'm not even sure I used all of them by the end of the game.
 
-One thing I love is it solves a problem with non-lethal play methods. Stages reward you for winning fast, winning with no kills, and winning with 100% kills. To 100% the game you need to do all of these, forcing you to engage with a full range of the game mechanics. so no feeling like some Metal Gear games, where you feel like you can't use most of the tools given to you.
+One thing I love is that it solves a problem with non-lethal play methods. Stages reward you for winning fast, winning with no kills, and winning with 100% kills. To 100% the game you need to do all of these, forcing you to engage with the full range of game mechanics. So unlike some Metal Gear games, where you feel like you can't use most of the tools given to you.
 <h2 class="hiddenh">Magic Garden</h2>
 **Magic Garden** is a puzzle/score game for sickos. a variation on snake, where you cash out chains of "Oppies", dropping them in a "rescue zone" and receiving potions that you can use to defeat *grumpy* Oppies and build score multipliers. The game goes off the rails as you realize the scoring mechanics mean the best way to score is to 'fail' your Oppies, radicalizing them before devouring them, **Pac-man Championship Edition** style. Awesome game.
 <h2 class="hiddenh">Golfaria</h2>
 **Golfaria** is **The Legend of Zelda** of golf. Limited resources help draw out the length of exploration games in UFO 50 and in this case, the resource is STROKES. The game seems *indomitable* at first. How can I get anywhere with so few strokes? What do you MEAN I gotta spend a stroke to talk to an NPC??? Eventually it mellows out though and just becomes a cool and unorthodox action adventure game.
 <h2 class="hiddenh">Vainger</h2>
-**Vainger** is **Metal Storm** as a metroidvania. Unfortunately I don't think it's a very good metroidvania. I do think it's a pretty good Metal Storm though so it's still pretty great! It's one great contribution to Metroidvanias is only letting you see the map at save stations. This is annoying, but in a great way that forces exploration and learning the environment.
+**Vainger** is **Metal Storm** as a metroidvania. Unfortunately I don't think it's a very good metroidvania. I do think it's a pretty good Metal Storm though so it's still pretty great! Its one great contribution to Metroidvanias is only letting you see the map at save stations. This is annoying, but in a great way that forces exploration and learning the environment.
 
 Sadly, once you know where to go and how to get there, the map just becomes tedious to navigate. Thankfully, the action is fun enough to make sure this isn't the biggest issue in the world.
 <h2 class="hiddenh">Avianos</h2>
-**Avianos** is **Nobunaga's Ambition** but with dinosaurs, and kinda mixed with simplified boardgame rules. The abstractions away from simulationism on the strategic layer of the game makes it very digestible, and the real time kind squishy weird AI based combat makes for really tricky, unreliable, and fun tactics.
+**Avianos** is **Nobunaga's Ambition** but with dinosaurs, and kinda mixed with simplified boardgame rules. The abstractions away from simulationism on the strategic layer of the game makes it very digestible, and the real time kinda squishy weird AI based combat makes for really tricky, unreliable, and fun tactics.
 
 
 # Pretty Cool!
 <h2 class="hiddenh">Waldorf's Journey</h2>
 **Waldorf's Journey** feels like a concept you'd see in an old flash game, just mixed with some great surrealism. You fling a giant walrus around, who is trying to fly through the air in his dreams.
 <h2 class="hiddenh">Elfazar's Hat</h2>
-**Elfazar's Hat** has some **Pocky and Rocky** DNA in it and is just a fun, breezy playthrough with a fun, if sometimes frustrating power-up mechanic. It's a nice in-between of the two extreme ends UFO 50 games seem to fall in between. "Saved based games with Level Select" and "Arcade 1CCs". Elfazar's hat instead is your oldschool "infinite continues, no save" fair and it feels like a nice, perfect, punchy mid tier SNES game.
+**Elfazar's Hat** has some **Pocky and Rocky** DNA in it and is just a fun, breezy playthrough with a fun, if sometimes frustrating power-up mechanic. It's a nice in-between of the two extreme ends UFO 50 games seem to fall in between. "Save-based games with Level Select" and "Arcade 1CCs". Elfazar's hat instead is your oldschool "infinite continues, no save" fair and it feels like a nice, perfect, punchy mid tier SNES game.
 <h2 class="hiddenh">Pilot Quest</h2>
 **Pilot Quest** is a *fucking clicker game*, with a [tool tip="Real Time Clock"]RTC[/tool] element, only its game fuckign 43 so you don't realize it unless you luck into it early on and **fuck them** for doing that, but also **lol lmamo**. It's pretty mid for a clicker game, and it has an attached, quasi randomized zelda side game attached to it... that is also *mid*, but somehow it is more than the sum of its parts.
 <h2 class="hiddenh">House Party</h2>
@@ -205,7 +205,7 @@ I don't have much to say about most of these games, but I'll try my best.
 <h2 class="hiddenh">Block Koala</h2>
 <h2 class="hiddenh">Bushido Ball</h2>
 <h2 class="hiddenh">Hyper Contender</h2>
-**Block Koala** is sinful, sokoban hell. A curse, upon completionists. This game has painfully more content then you wished it did. **Bushido Ball** and **Hyper Contender** probably don't actually belong here, but I have very little interest playing either in an actual head to head environment.
+**Block Koala** is sinful, sokoban hell. A curse upon completionists. This game has painfully more content then you wished it did. **Bushido Ball** and **Hyper Contender** probably don't actually belong here, but I have very little interest playing either in an actual head to head environment.
 <h2 class="hiddenh">Nin-Pek</h2>
 <h2 class="hiddenh">Kick Club</h2>
 **Nin-Pek** and **Kick Club** feel like the type of NES and SNES filler you'd rent and be a little disappointed with, even if you kept playing it anyways. They're fine!
@@ -256,7 +256,7 @@ Star Waspir on the other hand has big time *euroshmup* energy. A vertical shmup 
 <h2 class="hiddenh">Valgress</h2>
 **Valgress** is weird. If you describe the game out loud, it sounds like a banger. In practice, something feels missing. Hell, a lot of things feel missing. 
 
-Randomness in Rogue-lites often have it that each new generated level presents you with a new map filled with risks and rewards. In Valgress, the only reward is survival and coins to spend in the sparse shop. Then atop that, the game seems to obfuscate blame. So many mistakes that can get you kill can end with you surviving, making the times you die feel random. 
+Randomness in Rogue-lites often have it such that each new generated level presents you with a new map filled with risks and rewards. In Valgress, the only reward is survival and coins to spend in the sparse shop. Then atop that, the game seems to obfuscate blame. So many mistakes that can get you killed can end with you surviving, making the times you die feel random. 
 
 You still fucked up and got hit, but since getting killed by those hits feels like a coin flip, the actual dying part lacks the same sense of personal blame. Valgress seems like a *WIP* for something that *could* be a great game. But for [tool tip="I see you, J"]some people[/tool], it's already good enough.
 <h2 class="hiddenh">Hot Foot</h2>
