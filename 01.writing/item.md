@@ -32,7 +32,7 @@ If you're interested in my thoughts on game design and other topics, please feel
 * [Metroid: Dread - How Metroid Lost its Way](/../metroid-dread)
 * [Dragon's Dogma wants you to Choose](/../dragons-dogma-wants-you-to-choose)
 
-You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read!
+You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read! If you're still desperate, my [Neocities Page](https://kayinworks.neocities.org/) is a fun, alternative source for more light, frequent content, talking about things like *nails, plants, and pro wrestling*.
 
 Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** <span markdown="1" onclick="
         document.getElementById('656ce704adc484ac544535745594cbc1').togglePopover();
