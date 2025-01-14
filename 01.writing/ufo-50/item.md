@@ -271,3 +271,5 @@ I respect that. You fucking sickos.
 There is almost a dozen games in this collection I feel like I'll be thinking about for a long time. I'm left wondering how this package will be viewed in the years following its release. So many games in this set are worth the asking price, but will those individual games escape the package they're in? I don't mean as independant releases, but just as art. How will we talk about games like Max & Mini or Grimstone? Will any of these games have life outside this collection? How will they be presented?
 
 If UFO 50 forever gets viewed as a singular thing, well... there is something sad and beautiful about that. This wonderful, *wasteful* thing. Or is it? Would these games have escaped the drudgery of Steam on their own, even if they clearly deserve it?
+
+*For my original reaction thread, check here [here](https://bsky.app/profile/kayin.moe/post/3ld74oueh6s25) and [here](https://bsky.app/profile/kayin.moe/post/3lets46l3bs2r), scrolling to the start of each one. Eventually I'll figure out a way to show a clean Bluesky threadview, but for now this is as good as I got.*
