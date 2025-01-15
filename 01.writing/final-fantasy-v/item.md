@@ -32,7 +32,7 @@ Final Fantasy is always reinventing and experimenting. Final Fantasy V isn't a b
 
 I had never known Final Fantasy to be unserious. Jokey at times, but always carrying itself with a sense of prestige. Final Fantasy V... does not. At all. Final Fantasy 1 starts with the rescue of a princess. Final Fantasy 4 starts with war crimes stacked on war cimres. Final Fantasy 6 starts with... well, more war crimes, and one of the most intense, mood setting intro sequences in the entire setting.
 
-Final Fantasy V begins with anime hijinks. A lone chocobo rider, finding an old due with amnesia. A random princess shows up... now they're in a Pirate Cove, recruiting a very handsome gender bending pirate. The plot does what it needs to move things forward, concern for contrivance be damned The Wind Crystal is destroyed, but don't worry, our boat is pulled by a sea serpent. Another boat, powered by steam and fire, loses its the power with the destruction of the Fire Crystal... simply gets modified to not need it.
+Final Fantasy V begins with anime hijinks. A lone chocobo rider, finding an old dude with amnesia. A random princess shows up... now they're in a Pirate Cove, recruiting a very handsome gender bending pirate. The plot does what it needs to move things forward, concern for contrivance be damned The Wind Crystal is destroyed, but don't worry, our boat is pulled by a sea serpent. Another boat, powered by steam and fire, loses its the power with the destruction of the Fire Crystal... simply gets modified to not need it.
 
 How? Because Cid and Mid read a book. What changes are they going to make to undo this deep, worldly elemental loss? *Don't worry about it*.
 
