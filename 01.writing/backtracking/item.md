@@ -10,6 +10,7 @@ taxonomy:
     - Blog
   tag:
     - Games
+    - 'Game Design'
   games:
     - 'Porgy'
     - 'UFO 50'
