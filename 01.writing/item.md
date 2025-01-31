@@ -32,7 +32,7 @@ If you're interested in my thoughts on game design and other topics, please feel
 * [Metroid: Dread - How Metroid Lost its Way](/../metroid-dread)
 * [Dragon's Dogma wants you to Choose](/../dragons-dogma-wants-you-to-choose)
 
-You can also use the [Site Map](/../other-projects/sitemap) or my [Cohost Archive](/../cohost) to find more things to read! If you're still desperate, my [Neocities Page](https://kayinworks.neocities.org/) is a fun, alternative source for more light, frequent content, talking about things like *nails, plants, and pro wrestling*.
+You can also read my [FAQ](/../faq) or use the [Site Map](/../other-projects/sitemap) to find more posts. I also have my [Cohost Archive](/../cohost)! If you're still desperate, my [Neocities Page](https://kayinworks.neocities.org/) is a fun, alternative source for more light, frequent content, talking about things like *nails, plants, and pro wrestling*.
 
 Feel free to explore the site, and if you want, **hit the toggle on the red bar just under the logo** on the sidebar to toggle between **Dark** <span markdown="1" onclick="
         document.getElementById('656ce704adc484ac544535745594cbc1').togglePopover();
@@ -41,9 +41,9 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
 
 [/splitbox]
 
-!!! **18/11/2024** Some blog posts, mostly going into the future, will have comments through Bluesky. You can see an example of this on the Remakes article.
+!!! **30/01/2025** Added a *FAQ*! Removed things like the Dark Souls Map Viewer and Super Talking Time Bros from the sidebar. The Other Projects page should be enough.
 
-!!! **07/11/2024** Recently Updates the themes to ones I've been tested. The old ones are still around, if you can find them! Feel free to send feedback to any of the usual places.
+!!! **18/11/2024** Some blog posts, mostly going into the future, will have comments through Bluesky. You can see an example of this on the Remakes article.
 
 [center]
 # Friends of the Site

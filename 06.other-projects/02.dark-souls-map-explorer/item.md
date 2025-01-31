@@ -2,6 +2,7 @@
 title: 'Dark Souls Map Explorer'
 media_order: 'header.png,pic1.png,pic2.png,pic3.png,pic4.png,ovsdrg.png'
 nodate: '1'
+visible: false
 taxonomy:
     games:
         - 'Dark Souls (series)'

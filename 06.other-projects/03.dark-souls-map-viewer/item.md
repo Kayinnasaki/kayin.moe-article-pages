@@ -2,6 +2,7 @@
 title: 'Dark Souls Map Viewer'
 media_order: dsmap.jpg
 nodate: '1'
+visible: false
 taxonomy:
     games:
         - 'Dark Souls (series)'
