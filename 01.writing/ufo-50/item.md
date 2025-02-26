@@ -186,7 +186,7 @@ Sadly, once you know where to go and how to get there, the map just becomes tedi
 <h2 class="hiddenh">Elfazar's Hat</h2>
 **Elfazar's Hat** has some **Pocky and Rocky** DNA in it and is just a fun, breezy playthrough with a fun, if sometimes frustrating power-up mechanic. It's a nice in-between of the two extreme ends UFO 50 games seem to fall in between. "Save-based games with Level Select" and "Arcade 1CCs". Elfazar's hat instead is your oldschool "infinite continues, no save" fair and it feels like a nice, perfect, punchy mid tier SNES game.
 <h2 class="hiddenh">Pilot Quest</h2>
-**Pilot Quest** is a *fucking clicker game*, with a [tool tip="Real Time Clock"]RTC[/tool] element, only its game fuckign 43 so you don't realize it unless you luck into it early on and **fuck them** for doing that, but also **lol lmamo**. It's pretty mid for a clicker game, and it has an attached, quasi randomized zelda side game attached to it... that is also *mid*, but somehow it is more than the sum of its parts.
+**Pilot Quest** is a *fucking clicker game*, with a [tool tip="Real Time Clock"]RTC[/tool] element, only its game fuckign 43 so you don't realize it unless you luck into it early on and **fuck them** for doing that, but also **lol lmao**. It's pretty mid for a clicker game, and it has an attached, quasi randomized zelda side game attached to it... that is also *mid*, but somehow it is more than the sum of its parts.
 <h2 class="hiddenh">House Party</h2>
 **House Party** was enjoyable, despite me not really liking deck building game. This is a Top 5 game for a lot of the less action oriented players and was good enough at it to somehow roping me into getting a clear on it. Rightfully should be a tier lower for me, yet *somehow*...
 <h2 class="hiddenh">Rock On! Island</h2>
@@ -214,7 +214,7 @@ I don't have much to say about most of these games, but I'll try my best.
 <h2 class="hiddenh">Attactus</h2>
 <h2 class="hiddenh">Bug Catcher</h2>
 <h2 class="hiddenh">Camouflage</h2>
-**Attactus** is probably one of the coolest games I couldn't enjoy. Definitely a "top 5"er for someone else. So is **Bug Catcher**, but this deck builder worked less well for me than House Party. *Camouflage** is a perfectly fine puzzle game with a good gimmick and a super cute intro story that is held back only by the fact I don't love puzzle games. 
+**Attactus** is probably one of the coolest games I couldn't enjoy. Definitely a "top 5"er for someone else. So is **Bug Catcher**, but this deck builder worked less well for me than House Party. **Camouflage** is a perfectly fine puzzle game with a good gimmick and a super cute intro story that is held back only by the fact I don't love puzzle games. 
 <h2 class="hiddenh">Campanella 2</h2>
 <h2 class="hiddenh">Onion Driver</h2>
 **Campanella 2** is a full on roguelite, but definitely seems like it lives in the shadow of *real* rogue-lites. Most of the best games on this list hold up outside the context of UFO 50, but C2 has me thinking I'd rather be playing something else, even if its an ambitious and cool part of the collection. **Onion Driver** is some fun 2d **Crazy Taxi** clone, but I found the navigation too frustrating to be very fun, personally.
