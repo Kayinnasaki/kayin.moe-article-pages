@@ -172,4 +172,19 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
             min-width: 90px; 
         }
     }
+
+    @media (max-width:940px) {
+        .frontheader {
+            height: 10em;
+        }
+
+
+        .frontheader h2 {
+            padding-top: 46px;
+            font-size: 3em;
+            word-spacing: -27px;
+        }
+    }
+
+    
 </style>
