@@ -61,12 +61,17 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     <a href="https://itsmelilyv.com/"><img class="img8831" src="https://itsmelilyv.com/assets/site_image/itsmelilyv_88x31.gif"></a>
     <a href="https://automatictiger.neocities.org/"><img class="img8831" src="https://automatictiger.neocities.org/images/AstreaLinkButton.png"></a>
 </div>
+<br>
+<div class="linkbox">
+    <img class="img8831" src="links/iwasoncohost.gif">
+    <a href="https://www.debian.org/"><img class="img8831" src="links/debian.gif"></a>
+    <a href="https://zen-browser.app/"><img class="img8831" src="links/zen.png"></a>
+</div>
 [center]
 ### Link to my blog!
 <div class="linkbox">
-    <img class="img8831" src="links/iwasoncohost.gif">
+
     <img class="img8831" src="links/kayinworks.gif">
-    <img class="img8831" src="links/debian.gif">
 </div>
 <textarea name="buttoncode" class="center" aria-label="Button code" style="color: #292929; resize: none;margin-top: 0px; font-size: 0.7rem; width: 168px; height: 40px; margin-bottom: 0.5rem;"><a href="https://kayin.moe"><img src="https://kayin.moe/links/kayinworks.gif"></a></textarea>
 [/center]
