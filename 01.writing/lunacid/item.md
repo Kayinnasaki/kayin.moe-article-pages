@@ -6,6 +6,7 @@ minheader_image: 'header.png'
 header_class: centerheader
 date: '29-08-2025'
 publish_date: '28-08-2025'
+comments: 3lxjy7h4upc2d
 taxonomy:
     category:
         - Blog
