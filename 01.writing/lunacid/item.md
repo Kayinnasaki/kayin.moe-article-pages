@@ -26,7 +26,7 @@ taxonomy:
 
 ===
 
-# What does Lunacid seem like it is?
+# What does Lunacid appear to be?
 
 On a superficial level, Lunacid is a *King's Field-like*, a first person melee based dungeon crawler that draws particularly heavy inspiration from the **Shadow Tower** side of From's *KF-like* collection. It'll tick a lot of the same boxes. It'll emulate a lot of the same features, even giving you options like the *KF* style compass, or tank controls. But at it's heart, at least in my opinion, it is not a *King's Field-like*. 
 
