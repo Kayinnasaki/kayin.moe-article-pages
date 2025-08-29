@@ -36,7 +36,7 @@ Any one of us indie devs who have made "revivalist" game like this have tried to
 
 Lunacid isn't like that. Are you the type of nerd who [tool tip="By the way, I don't have the time to go into this, but the soundtrack is a BOP. Kira can really do anything, can't they?"]listens to a song[/tool] and the only thing you can do is think about what you would do with it, what a game you'd make would do it with? What the characters you create would be doing as it played? Where you basically take complete ownership of the work, [/tool]breaking it down to mold around your own creative interests?[tool tip="No??? Just me?? 😰"]
 
-Lunacid does that, and with every FromSoftware game. It visually references them, it pays homage to them, and it styles itself after them, but it *does not* play like them. Lunacid had more in common in how it treats it's influences with **I Wanna be the Guy** than anything else. A collection of things someone loves, sharing them with confidence and conviction.
+Lunacid does that, and with every FromSoftware game. It visually references them, it pays homage to them, and it styles itself after them, but it *does not* play like them. Lunacid had more in common in how it treats it's influences with **I Wanna be the Guy** than anything else. A collection of things someone loves, sharedrin with confidence and conviction.
 
 # What Lunacid ACTUALLY is
 
