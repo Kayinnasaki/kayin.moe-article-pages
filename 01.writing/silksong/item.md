@@ -46,7 +46,7 @@ Bloodborne is pretty universally loved, at this point. One of the most loved Fro
 People were *not* ready for how Bloodborne played. They weren't ready to not have a shield, they weren't ready to be aggressive, or fight more aggressive bosses. Some people were *kinda pissed*, but the outrage cycle wasn't as strong back then as it is now. Also Souls fans, for all their *many* faults, are definitely good at quashing that kind of thing. Still, it's to be expected. People had been playing a specific style of *Souls-like* for like 6 years, until Bloodborne came out and asked for something outside of some player's comfort zone. The game honestly is no harder than any other Fromsoft title, but it being the [tool tip="You can argue DS2 is very different but honestly besides a few enemy behaviors, its still very Souls"]first major change[/tool], it took people awhile to adapt. Now, years later, few people remember its early reputation for being destructively, devastatingly hard. Okay sure, we remember what a motherfucker Father Gascoigne is, but basically [tool tip="Him and blood vial farming"]he gets all the focus[/tool] at this point.
 
 I've had people tell me they *Steel Souled* Hollow Knight yet found Silksong to be too difficult. "I should be good enough for this game," they fairly assume, not realizing their over familiarity with Hollow Knight is oddly a curse. Almost comedically, all the people I know who weren't as invested in Hollow Knight on average seem to be having an easier time.
-[floatbox type="right"]
+[floatbox type="right" class="floatout"]
 [center]
 
 ![](dontbethere.jpg?lightbox)
@@ -84,7 +84,7 @@ Much digital ink has been spilt making claims about Silksong's [tool tip="I SWEA
 Silksong will not let you get away with a one-sided conversation. This isn't sadism, but instead a desire for mechanical and narrative intimacy. This isn't a selfish request. A player metaphorically Monologuing to a game will never as rich of fulfilling as a two-way dialog. And the game actively rewards you for engaging with it. New areas, fun items, satisfying strategies, new lore and NPC interactions... it's trying to be a good partner!
 
 The Silksong characters stand high above those of Hollow Knight. Giving Hornet a speaking role fundamentally changes the interactions we are able to have with the world. Hornet is... charmingly aristocratic, speaking in that high borne way where you *say things* without actually saying them. A type of dignified and articulate low-key *sass*. Again, a two sided conversation is always more interesting. She can push back on ideas presented to her, she can give hope to those around her. Hornet's polite candor works perfect. She will present her views on things, but her dignified air prevents her from being too overbearing. She's not going to preach. That's for those high up in the city of *Citadel of Song*. Characters are free to chase their own foibles, even with Hornet's diplomatic disapproval. Yet everyone rubs off a little on each other. Words sometimes take time to set in.
-[floatbox type="right"]
+[floatbox type="right" class="floatout"]
 [center]
 
 ![](short.jpg?lightbox)
