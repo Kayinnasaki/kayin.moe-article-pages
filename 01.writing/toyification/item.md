@@ -1,4 +1,4 @@
-  ---
+---
 title: 'On Toyification'
 date: '19-09-2024'
 publish_date: '19-09-2024'
@@ -17,7 +17,7 @@ Also to be clear, I'm going to be talking a lot about remakes and remasters, but
 
 What is a *toy* in this context? In modern times what we call a toy could be a complete, sophisticated building system, or something that is a hobby all into itself. When I'm saying *toy* here, I mean something older.
 
-![](village.png)
+![](village.jpg)
 
 Toys, [tool tip="Kinda glossing over the Cup and Ball tbf"]as they were, for thousands years[/tool]. Concept, reduced down into a caricature representing their most important traits. A policeman distilled down to a hat, a firefighter distilled down to the color red. Vague shapes without limbs. A wooden toy knight, cherished by a medieval child.
 
@@ -57,8 +57,8 @@ We can bemoan decisions made on western box art all we want, but they are, at wo
 A lot of digital ink got spilled on cohost in the wake of my Castlevania 64 review. Very little of it was for CV64 itself, but instead one small addition I made to my [repost over there](https://cohost.org/Kayin/post/6570656-also-y-all-need-to-s).
 
 [floatbox type="full"][gallery rowHeight=300 slideEffect=none]
-![](cv64raw.png?lightbox)
-![](cv64up.png?lightbox)[/gallery][/floatbox]
+![](cv64raw.jpg?lightbox)
+![](cv64up.jpg?lightbox)[/gallery][/floatbox]
 
 !! Also y'all need to stop doing this! I thought this game was ugly for years, but it's because every video and screenshot is played at like HD or 4K where all the implied details vanish, all the billboard sprites look fake as fuck, and everything just looks like a big smear.
 !!
@@ -77,9 +77,9 @@ Yet I have no problem finding non-randomized footage of a game like **A Link to 
 Then those who didn't grow up with these games who wish to go back and experience history... They don't even know how these games are supposed to look. They have no point of reference. All they know is the **Star Wars: Special Editions** of games. Only now it's the fans who choose not preserve history. So many old games are *trying their darnedest* to create an illusion. That CV64 screenshot wants to be a clock tower with *deathly seriousness*. Even if its attempts are, through 2024 eyes, futile, I feel like I still owe them the dignity to not try and undermine what they were going for.
 
 [floatbox type="full"][gallery rowHeight=240 lastRow=center slideEffect=none]
-![](metalgear2.png?lightbox)
-![](metalgear1.png?lightbox)
-![](metalgear3.png?lightbox)[/gallery][/floatbox]
+![](metalgear2.jpg?lightbox)
+![](metalgear1.jpg?lightbox)
+![](metalgear3.jpg?lightbox)[/gallery][/floatbox]
 
 A great reply [on cohost](https://cohost.org/blazehedgehog/post/6583760-cherry-picking-is-on) from BlazeHedgehog(*very much worth the read*) shows off one of my favorite bugbears, the PC version of **Metal Gear Solid** and how the game not even isn't supposed to look like that, it's not supposed to look like the pixel accurate, crisp version. It's supposed to be [tool tip="And also un-interpolated!! Motion Smoothing is Toyification for Movies!!!"]*a little dirty*[/tool]. That first screen shot could be a desktop vignette. Maybe even a really ambitious papercraft project. When you add the dithering and the blur though, all the little details become more plausible. It's perfect, it is still a PSX game, but the vision of *what the game is trying to be* comes through.
 
@@ -93,7 +93,7 @@ The problem is that I don't think most of us actually really *making* these type
 
 ## Game Publishers care even less than we do
 
-![](persona4.png?lightbox)
+![](persona4.jpg?lightbox)
 
 It's hard to convince companies to respect the work of their studios when we can't bring ourselves to respect it. We want the new and the shiny, we want the toy. **Persona 4: Golden**'s vita release had some visual changes that *weren't great* for the vibe of the game, but made sense on the small screen they were being played on. Compromises must sometimes be made for ports, and adjusting work for a new platform can be an art form on it's own.
 
