@@ -6,11 +6,11 @@ nodate: '1'
 
 # Artwork
 <hr>
-
 Collection of a lot of my old artwork. You can find even more stuff over at my ancient [Deviant Art](https://www.deviantart.com/kayinnasaki).
 
 [gallery rowHeight=200 margins=20 lastRow="justify" captions="false" border=0]
-![Moonfisher](Moonfisher.gif "Moonfisher    .gif")
+![Sinlen](sinlen.jpg "sinlen.jpg")
+![Moonfisher](Moonfisher.gif "Moonfisher.gif")
 ![MakotoBase2](MakotoBase2.gif "MakotoBase2.gif")
 ![makotonervousfull](makotonervousfull.png "makotonervousfull")
 ![whateverdone](whateverdone.png "whateverdone")
