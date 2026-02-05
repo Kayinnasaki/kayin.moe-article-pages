@@ -19,7 +19,7 @@ routes:
     - '/mario-64-b3313-intended-experiences-and-a-bit-of-myhouse-wad'
 ---
 
-Mario 64 has been one of my favorite Mario games for a long time. This isn't really an uncommon opinion, as this game hits a certain nostalgic window for some people. It's a game people often remember fondly before going back and remembering how *janky* it is, or how rough the controls can be... how scattershot it's design was. What appeals to me about Mario 64 isn't that I was young. It is that the *genre* was young and it is the type of weird game that can only exist within a short window. The type of game that gets made when everyone is talented, but no one *quite* knows what they're doing yet.
+Mario 64 has been one of my favorite Mario games for a long time. This isn't really an uncommon opinion, as this game hits a certain nostalgic window for some people. It's a game people often remember fondly before going back and remembering how *janky* it is, or how rough the controls can be... how scattershot its design was. What appeals to me about Mario 64 isn't that I was young. It is that the *genre* was young and it is the type of weird game that can only exist within a short window. The type of game that gets made when everyone is talented, but no one *quite* knows what they're doing yet.
 
 ===
 
@@ -89,7 +89,7 @@ The best game experiences aren't consumptive. They arise in the intersection of 
 
 I forgot to write about myhouse.wad when I played it but it's interesting to go over a few things quickly. 
 
-I love myhouse.wad. I might dig it more than B3313? I think it's a much cleaner package, but at the same time B3313 would be WORSE if it tried to be cleaner. You see two things playing with the same concept -- cursed old game media filled with liminal spaces and horror? I think myhouse.wad hits with it's story pretty well though. B3313 has one, but it's... not important. It's about the fucking *Super Mario Bros*. Meanwhile, myhouse.wad is about *people* and *real experiences*. Not *literally real* (maybe some of them might be), but human experiences. I think myhouse.wad wants you to finish it, to figure it out, to get the story, where B3313 want's to just overwhelm you.
+I love myhouse.wad. I might dig it more than B3313? I think it's a much cleaner package, but at the same time B3313 would be WORSE if it tried to be cleaner. You see two things playing with the same concept -- cursed old game media filled with liminal spaces and horror? I think myhouse.wad hits with its story pretty well though. B3313 has one, but it's... not important. It's about the fucking *Super Mario Bros*. Meanwhile, myhouse.wad is about *people* and *real experiences*. Not *literally real* (maybe some of them might be), but human experiences. I think myhouse.wad wants you to finish it, to figure it out, to get the story, where B3313 want's to just overwhelm you.
 
 I like that each has a great strength that is in direct contrast to the other. They fundamentally *can't* do what the other is doing, even though they both are drawing water from the same well. That's pretty cool!
 

@@ -65,7 +65,7 @@ A bad game I was OBSESSED with. I enjoy finding the beauty and ambition of just 
 
 ### IL-2 Strumovik
 
- like games where you feel like you're piloting a character more than being them. I like the fussy nuances. So of course I love a game where it's ALL piloting, all fuzzy dials, and overheating engines, and procedures, where doing anything is so INCREDIBLY hard. But as time goes on, you grow intimate with your plane, you learn where everything is, you learn the sounds it makes when it's mad at you, you learn to cope with it's blind spots. This is a game where starting an engine, getting to the runway, and taking off for the first time feels like an accomplishment. Shooting shit down feels like an impossibility. No one hit anything from the air in WW2 and neither will you. It fucking rules.
+ like games where you feel like you're piloting a character more than being them. I like the fussy nuances. So of course I love a game where it's ALL piloting, all fuzzy dials, and overheating engines, and procedures, where doing anything is so INCREDIBLY hard. But as time goes on, you grow intimate with your plane, you learn where everything is, you learn the sounds it makes when it's mad at you, you learn to cope with its blind spots. This is a game where starting an engine, getting to the runway, and taking off for the first time feels like an accomplishment. Shooting shit down feels like an impossibility. No one hit anything from the air in WW2 and neither will you. It fucking rules.
 
 Also I just love flight gear and head tracking technology.
 

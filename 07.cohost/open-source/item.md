@@ -17,4 +17,4 @@ From firefox, to blender, to mastodon, to now godot, I feel like people make up 
 
 Blender has slow boiled the "This can never be a serious pro tool" frog until it got to the point of being undeniable. I feel like the corporate internet has ruined our brains a little. We're used to things getting worse. A few years in we end up realizing we've probably hit the "peak" of the thing we like, and it's all down hill from there. Open source stuff keeps getting better. Yeah okay there are some bad design missteps too but it's a world of difference between that and watching something like discord shove itself into the gutter making changes for the shake of change because they have Silicon Valley brain worms.
 
-Like idk I'd be a hypocrite if I was like "We all need to use all this stuff all the time!!" but idk maybe some people need to fight the urge to 'put the free and open option in it's place'?
+Like idk I'd be a hypocrite if I was like "We all need to use all this stuff all the time!!" but idk maybe some people need to fight the urge to 'put the free and open option in its place'?

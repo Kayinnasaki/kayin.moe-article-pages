@@ -36,13 +36,13 @@ The bulb dies and the color wheel explodes, destroying the television.
 
 ## LCD
 
-You address a pixel on a grid, which represents an RGB triad of liquid crystal cells. In front of these cells are Red, Blue, and Green color filters. A bright white backlight of vertically polarized light shines in from the back of the screen. The selected triad receive a charge, causing the cells to rotate, which rotates the polarity of the light. This lines up with a horizontal polarizer, blocking out all light and creating black. A full charge is given to the selected triad's red cell, and a partial one to it's blue cell. Green is blocked, creating a fuchsia pixel.
+You address a pixel on a grid, which represents an RGB triad of liquid crystal cells. In front of these cells are Red, Blue, and Green color filters. A bright white backlight of vertically polarized light shines in from the back of the screen. The selected triad receive a charge, causing the cells to rotate, which rotates the polarity of the light. This lines up with a horizontal polarizer, blocking out all light and creating black. A full charge is given to the selected triad's red cell, and a partial one to its blue cell. Green is blocked, creating a fuchsia pixel.
 
 The rest of the light slams against the vertical polarizer. Your black levels are terrible. Your viewing angles are terrible. Eventually the crystals in a cell decides it likes the position it's in and you can't stop noticing it. 
 
 ## LED
 
-You address a pixel on a grid, which represents an RGB triad of liquid crystal cells. In front of these cells are Red, Blue, and Green color filters. One of thousands of vertically polarized light shines in from the back of the screen. The selected triad receive a charge, causing the cells to rotate, which rotates the polarity of the light. This lines up with a horizontal polarizer, blocking out all light and creating black. A full charge is given to the selected triad's red cell, and a partial one to it's blue cell, creating a fuchsia pixel.
+You address a pixel on a grid, which represents an RGB triad of liquid crystal cells. In front of these cells are Red, Blue, and Green color filters. One of thousands of vertically polarized light shines in from the back of the screen. The selected triad receive a charge, causing the cells to rotate, which rotates the polarity of the light. This lines up with a horizontal polarizer, blocking out all light and creating black. A full charge is given to the selected triad's red cell, and a partial one to its blue cell, creating a fuchsia pixel.
 
 The polarizer does some shit different I barely understand, so at least your viewing angle is better. Your fuchsia pixel has a weird halo around it. You realize the LED TV is just an LCD TV, but with more stuff.
 

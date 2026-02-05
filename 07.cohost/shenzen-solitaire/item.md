@@ -14,7 +14,7 @@ taxonomy:
 <div class="tweet">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been playing shenzen io Solitaire for 6 years and kept screen shotting my games completed score over like multiple phones and well, I just wanted to celebrate a complete but satisfying waste of time 😌 <a href="https://t.co/feFCYxcQHI">pic.twitter.com/feFCYxcQHI</a></p>&mdash; Kayin (@KayinNasaki) <a href="https://twitter.com/KayinNasaki/status/1678774318468308992?ref_src=twsrc%5Etfw">July 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-I loved Shenzhen IO, but I loved it's solitaire even more. I remember "Win 10 games" feeling impossible and the game's fictional creator being basically like "idk maybe it's too hard but have you tried getting good?" but soon those games went by super fast. The iOS port made it FAR worse.
+I loved Shenzhen IO, but I loved its solitaire even more. I remember "Win 10 games" feeling impossible and the game's fictional creator being basically like "idk maybe it's too hard but have you tried getting good?" but soon those games went by super fast. The iOS port made it FAR worse.
 
 in April of 2017 I did my first 100 wins. Two months later it was 400. By the end of that year it was 2000. By 2018 it was 5000??? At the end of 2019 I'm at 7000, clearly on pace to finish this pointless task, but then the pandemic happens and while that seems like a great time for solitaire, there is a huge two year gap in my photos, where I finally tack on 500 games, two years later. 7500.
 

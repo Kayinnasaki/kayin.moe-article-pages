@@ -43,9 +43,9 @@ You can do the obvious thing, and compare the goals of games, comparing the rang
 
 ... But we have words for that already, words I already had to use to describe the games above. I want to talk about how we *toyify* games that already exist.
 
-Even back in the era of the NES, we were doing this with the US *Nintendo Black Label* releases. Mario, fully pixelated, presented like a cut-out decal. Mario *the abstraction*, like the wooden toy knight. Unlike the famicom cover and it's cute art, the US, [tool tip="tl;dr video game crash and fear of false advertising"]for complicated reasons[/tool], embraced the facade.
+Even back in the era of the NES, we were doing this with the US *Nintendo Black Label* releases. Mario, fully pixelated, presented like a cut-out decal. Mario *the abstraction*, like the wooden toy knight. Unlike the famicom cover and its cute art, the US, [tool tip="tl;dr video game crash and fear of false advertising"]for complicated reasons[/tool], embraced the facade.
 
-This *isn't* Mario. This is the *toy* of Mario, an action figure sitting in it's blister pack. If nothing else, it is [tool tip="Actually it isn't, Mario doesn't really have that many pixels or colors!!!"]honest[/tool].
+This *isn't* Mario. This is the *toy* of Mario, an action figure sitting in its blister pack. If nothing else, it is [tool tip="Actually it isn't, Mario doesn't really have that many pixels or colors!!!"]honest[/tool].
 
 The Japanese release is more like buying a model of a fighter jet in a hobby store. A colorful action scene on box that rattles with possibility. The model you build will never live up to reality. Models are, after all *inherently deceitful*... but with stories, and world building, and *art*, a lot of power comes from the lie. They want us to *believe* that these crude pixels are something greater. That you are controlling Mario, the plumber. That the fighter jet isn't made out of plastic.
 [/splitbox]
@@ -95,7 +95,7 @@ The problem is that I don't think most of us actually really *making* these type
 
 ![](persona4.jpg?lightbox)
 
-It's hard to convince companies to respect the work of their studios when we can't bring ourselves to respect it. We want the new and the shiny, we want the toy. **Persona 4: Golden**'s vita release had some visual changes that *weren't great* for the vibe of the game, but made sense on the small screen they were being played on. Compromises must sometimes be made for ports, and adjusting work for a new platform can be an art form on it's own.
+It's hard to convince companies to respect the work of their studios when we can't bring ourselves to respect it. We want the new and the shiny, we want the toy. **Persona 4: Golden**'s vita release had some visual changes that *weren't great* for the vibe of the game, but made sense on the small screen they were being played on. Compromises must sometimes be made for ports, and adjusting work for a new platform can be an art form on its own.
 
 What really made these changes hurt is when Golden was ported to PC. Now these changes for "clarity", are in high res. Now the kitchen looks like a 3/4th cutaway diorama you'd put on your desk. The fields look barren. You can look at so many of these changes on [this twitter thread](https://x.com/R3dGoner/status/1782609783410807039). You can understand why many of these changes were made for a handheld, especially when many PS2 era effects are difficult to emulate. But they were brought to the PC because *that was the easiest and cheapest way to do it*. Who is going to complain about more clarity? More vibrancy? Being able to see all the characters and their expressions clearly? We're trained that More is More in games, celebrating bigger numbers while we reduce the visuals of a game down to a to a parody of what they once were. The toy version of a PS2 game. The modern, cartoony *idea* of a PS2, ignoring the serious art they were trying to be.
 [splitbox side="right"]
@@ -106,14 +106,14 @@ What really made these changes hurt is when Golden was ported to PC. Now these c
 
 **Wind Waker HD** betrayed its own aesthetics to try and sell a new console. We need *lighting* to look *HD*. We need ATMSOPHERE. The art of the original be damned. Yet, by doing so, we got something more toy-like, even in a literal sense. Like little *Amiibos* running around. Forget playing the original, now Nintendo won't even offer you *either* version.
 
-There is no desire to preserve, only to *capitalize* when the moment seems right. Nintendo only cares about it's past so it can control it's brand image. It only cares about ROMs so it can pretend to be like Disney and have their little controlled vault. They just want more ways to sell you toys.
+There is no desire to preserve, only to *capitalize* when the moment seems right. Nintendo only cares about its past so it can control it's brand image. It only cares about ROMs so it can pretend to be like Disney and have their little controlled vault. They just want more ways to sell you toys.
 [/splitbox]
 
 Even well meaning ports can call into the same traps simply due to how *normalized* this is. The **Final Fantasy Pixel Remasters** change many graphics to *un-CRT* them. But instead of that, you simply get a more cartoonish, *chibi* version of the designs. They always had these proportions, but instead of hinting at a larger reality, they overly embrace their shortcomings.
 
 One could argue that maybe these changes were the intended original look, but the clash between Final Fantasy 6's character graphics and backgrounds betray this. I have great respect for Kazuko Shibuya. This isn't like those awful, talentless iOS ports. She had a goal for the pixel remasters and achieved it, like the talented artist she is... But that goal, I feel, was influenced by how we've commodified these old game aesthetics. Old Final Fantasy graphics are toys now.
 
-There has been a lot of toyification in retro pixel art for awhile now. I sometimes feel like faux-8-bit games are more **Shovel Knight** fan games than actual throwbacks. Sometimes this bothers me, but there isn't actually anything *wrong* with that. At least when it's intention.
+There has been a lot of toyification in retro pixel art for awhile now. I sometimes feel like faux-8-bit games are more **Shovel Knight** fan games than actual throwbacks. Sometimes this bothers me, but there isn't actually anything *wrong* with that. At least when it's intentional.
 
 ## Intentional Toyification
 

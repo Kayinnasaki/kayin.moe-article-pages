@@ -13,7 +13,7 @@ taxonomy:
 <script type="module" src="/etc/cohost-wc.js"></script>
 <link rel="stylesheet" href="/etc/cohost-wc.css" /> 
 
-!! The following post is not mine, but from **BlazeHedgehog**. It is being archived due to it's need in the Toyification article. What is left out is the reply with whom Blaze was arguing with, but the points Blaze make are just as important valid without the context. The original post, while it still exists, can be found [here](https://cohost.org/blazehedgehog/post/6583760-cherry-picking-is-on)
+!! The following post is not mine, but from **BlazeHedgehog**. It is being archived due to its need in the Toyification article. What is left out is the reply with whom Blaze was arguing with, but the points Blaze make are just as important valid without the context. The original post, while it still exists, can be found [here](https://cohost.org/blazehedgehog/post/6583760-cherry-picking-is-on)
 
 <cohost-post avatarsrc="/etc/icons/kayin.png" avatarshape="circle" displayname="Kay" handle="Kayin" headline="Castlevania 64, Legacy of Darkness, and How We Re-evaluate Action Games Released in the Pain Zone" originalurl="https://cohost.org/Kayin/post/6564407-castlevania-64-lega" publishedat="2024-06-22T14:26:46.968Z" tags="">
 

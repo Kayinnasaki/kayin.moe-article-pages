@@ -99,7 +99,7 @@ The lashes. All inflict poison/trigger toxic blossom on hit.
 - **236MP** Diagonal lash. Important for combos, but not useful otherwise.
  - Too slow to control the space you think it would
  - Also less big of a hitbox.
- - Has it's uses outside of combos but generally just *don't*.
+ - Has its uses outside of combos but generally just *don't*.
  - Ground hit toxic blossom gives a slow crumple, which rules.
  
 - **236PP** The EX version is cool and gives cool cool combos with with or without toxic blossom but it's a weird move, utility wise, don't really use it much.
@@ -154,7 +154,7 @@ Reversal, though slow. Poisons. Does a lot of extra damage if they're already po
 
 ### Level 2 - 214214K
 
-I almost never use this but it's cool. she shoots like missile things??? Button choice changes whether its in front of you, the middle of the stage, or max range. Punishes some shit, but hard to use.
+I almost never use this but it's cool. she shoots like missile things??? Button choice changes whether it's in front of you, the middle of the stage, or max range. Punishes some shit, but hard to use.
 
 ### Level 3 - 236236P
 
@@ -253,7 +253,7 @@ This conversion can be used anywhere a grounded 236HP can bit hit so I'll keep t
 
 `PC 2HK DR 5LK 236HP` Gets the good knockdown! Normal extension theory doesn't work here because this is an air hit. If they're poisoned you can instead do...
 
-`PC 2HK DR 5LK 236MP DR 5HK 2PP->P` which does 30% on it's own.
+`PC 2HK DR 5LK 236MP DR 5HK 2PP->P` which does 30% on its own.
 
 #### Comboing into Super
 

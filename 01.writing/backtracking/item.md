@@ -58,7 +58,7 @@ I have a vivid memory from like exactly 20 years ago, taking a trip to Florida t
 
 It's so easy, due to the language we use to describe videogames, to make out important, intentional design elements to be problems, even though they are essential to the experience they're trying to build. *Backtracking*, as a term, leads us to resenting key parts of digital worlds and the design language we can exploit within them. It misdirects us from real, thoughtful design critiques, and vilifies some of the best experiences gaming can offer.
 
-Ultimately, most people are just trying to communicate with the tools they have. What other word do most people think they can use? *Backtracking* is so normalized. Most people wouldn't think the term *could* have any issues. It, and all it's baggage, are taken as a given. Others don't see the baggage as a bug, but as a feature.
+Ultimately, most people are just trying to communicate with the tools they have. What other word do most people think they can use? *Backtracking* is so normalized. Most people wouldn't think the term *could* have any issues. It, and all its baggage, are taken as a given. Others don't see the baggage as a bug, but as a feature.
 
 Doing more research for this, I found an article talking about games that did backtracking well, vs games that did it poorly. On the list, sat Hollow Knight. One of the most incredible modern metroidvanias, which balances getting lost with ease of movement. A game that carefully links together several forms of diegetic fast travel. A game that balances the needs of mood, exploration, and practicality together almost perfectly... [tool tip="They gave it to fucking DREAD"]A clear #1[/tool] for the good side of this list.
 

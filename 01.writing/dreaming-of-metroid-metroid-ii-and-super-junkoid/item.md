@@ -76,7 +76,7 @@ I'm still a Super Metroid fan to the bone, but Metroid 2, after all these years,
 
 Super Junkoid feels like a special game. Mirai had been recommending me [this romhack for awhile](https://metroidconstruction.com/hack.php?id=750&noprocess) now. It exists in this strange in between of a full conversion, and *very distinctly* being Super Metroid. 
 
-The game is a dream, but does not use it's dream gimmick lightly. Everything feels surreal. You wake up in a bed in the middle of a snowy field. Doors are replaced by giant bird heads, a possible motif taken from the dreamworld of Mario 2. The first area drifts... snowy fields, crateria like caves, underground service tunnels, to blood.... fleshinesss. The bottom of the first area, The Outskirts, feels almost vaginal, like a creeping post puberty menstrual nightmare.
+The game is a dream, but does not use its dream gimmick lightly. Everything feels surreal. You wake up in a bed in the middle of a snowy field. Doors are replaced by giant bird heads, a possible motif taken from the dreamworld of Mario 2. The first area drifts... snowy fields, crateria like caves, underground service tunnels, to blood.... fleshinesss. The bottom of the first area, The Outskirts, feels almost vaginal, like a creeping post puberty menstrual nightmare.
 
 ![](junkoid2.png?lightbox)
 
@@ -92,7 +92,7 @@ The [tool tip="A theme, for today"]vibe is incredible[/tool]... Dark and ominous
 
 ![](falseidol.png?lightbox)
 
-The deeper you go, the more nightmarish things get. Eventually you enter the mouth of a horrific worm like creature with a distressingly monstrous face. Not a Snake... more like a worm. The False Idol. It's insides are hostile to life. Fleshy, squeezing, digestive. The walls shoot at you to kill you and the acid burns. It is a multi headed hydra connecting and consuming parts of your deep self conscious. Perhaps it's part of you? Your Id? your conception of The Snake?
+The deeper you go, the more nightmarish things get. Eventually you enter the mouth of a horrific worm like creature with a distressingly monstrous face. Not a Snake... more like a worm. The False Idol. Its insides are hostile to life. Fleshy, squeezing, digestive. The walls shoot at you to kill you and the acid burns. It is a multi headed hydra connecting and consuming parts of your deep self conscious. Perhaps it's part of you? Your Id? your conception of The Snake?
 
 You kill it.
 
@@ -148,14 +148,14 @@ Junkoid cannot match the rich, murky vibe of Super Junkoid. Instead, it is a cri
 
 There are so many little touches. You get a map for the first area. You can get around there fine, but you'll be blind everywhere else. The sub-areas are relatively small, but it's still so easy to miss that map. By giving you the map at the start, you feel more lost than you would if you never had one at all. 
 
-The game has many lovely structural shortcuts. I particularly love The Heart, and it's floors, the different ways the main tower makes it easier to go down as you find more items. The whole area feels like having to take the stairs down in a skyscraper because the elevator isn't working.
+The game has many lovely structural shortcuts. I particularly love The Heart, and its floors, the different ways the main tower makes it easier to go down as you find more items. The whole area feels like having to take the stairs down in a skyscraper because the elevator isn't working.
 [/splitbox]
 
 I love how wet this game feels. Visually and emotionally. The original Metroid is a visually *dry game*. A land without water, bushes looking parched and brown. A land of cold metal and brick. Norfair looks like it's made of volcanic glass. Junkoid is made of blood and tears. Super Junkoid wears these themes heavily. The atmosphere is thick. Junkoid, by contrast, is almost light about it. More distant, but in a way that better highlights the absurdity. In Super Junkoid you are deep in the dream with Junko. in Junkoid? You, like the snake, are watching her. When you enter The Purple, she even tries to hide from your eyes.
 
 Like Super Junkoid, there is a consistent design language. You have a rapport with the developer and they are not inclined to betray your trust. Both games award attentiveness. Secrets aren't hard if you're using your eyes. It's so easy to coast through games that don't require you to be *present*. Junkoid is easy, but it won't let you sleep at the wheel. You have to be engaged.
 
-It's fun, weird and breezy. While it doesn't hit the highs for me that Super Junkoid did, it stands on it's own merits and has it's own strengths. It even ends better. How Sheol feels. How the Snake feels. How the Zebetites are repurposed, used over an entire area. The whole final act just plays out nicer here, even if Super Junkoid's [tool tip="Junko is going to the one place that hasn't been corrupted capitalism. SPAAAAAACE"]very final moments[/tool] win out. It's not a contest though. While both are takes on the same story, by the same creator, both have different goals and approaches. Both are filled with unique things to love. If you had to play one I'd say play Super Junkoid, but if you have time you'll probably enjoy playing both. Junkoid isn't that long. You might even end up loving it more.
+It's fun, weird and breezy. While it doesn't hit the highs for me that Super Junkoid did, it stands on its own merits and has its own strengths. It even ends better. How Sheol feels. How the Snake feels. How the Zebetites are repurposed, used over an entire area. The whole final act just plays out nicer here, even if Super Junkoid's [tool tip="Junko is going to the one place that hasn't been corrupted capitalism. SPAAAAAACE"]very final moments[/tool] win out. It's not a contest though. While both are takes on the same story, by the same creator, both have different goals and approaches. Both are filled with unique things to love. If you had to play one I'd say play Super Junkoid, but if you have time you'll probably enjoy playing both. Junkoid isn't that long. You might even end up loving it more.
 
 Okay NOW to talk about the Metroid Dread stuff...
 
@@ -173,7 +173,7 @@ The reception for the Dread review was *super nice*, but the thing that got me t
 
 I was... really really happy with peoples willingness to engage me on this topic, or politely argue against me. I made a lot of effort to not sound *judgemental* in my review, but my opinion was definitely sometimes rather intense, and I'm glad people were able to tell that I mostly just... was really passionate?
 
-The map and EMMIs were a common source of agreement(even fans felt constricted by the map at times). The point about counters was hit or miss. While many people argued for the counters and boss design, there is definitely a growing resentment for that style of content. There is also an increased amount of criticism toward the Dark Souls induced "Dodge/roll" type of call-response combat design. While I don't hate that style of design(I'm a massive Fromsoft fan, so obviously I don't mind it), I do feel it's overused as some sort of "Secret sauce" for "hardcore combat", even though massive i-frames is perhaps the most EZ Mode type of defensive option a game can have. Sometimes a big cool EZ Mode dodge move is cool but it's use seems to have more to do with the *optics* of difficulty than anything else.
+The map and EMMIs were a common source of agreement(even fans felt constricted by the map at times). The point about counters was hit or miss. While many people argued for the counters and boss design, there is definitely a growing resentment for that style of content. There is also an increased amount of criticism toward the Dark Souls induced "Dodge/roll" type of call-response combat design. While I don't hate that style of design(I'm a massive Fromsoft fan, so obviously I don't mind it), I do feel it's overused as some sort of "Secret sauce" for "hardcore combat", even though massive i-frames is perhaps the most EZ Mode type of defensive option a game can have. Sometimes a big cool EZ Mode dodge move is cool but its use seems to have more to do with the *optics* of difficulty than anything else.
 
 There was talk about the fact *Metroid is different now*. Metroid is an Action Platform Semi Horror game and it's been that longer than Metroid has been anything else and you can't expect everything to be Super Metroid. I actually agree with this, but I don't think this is a reason to settle for less. The review pointed out many of the issues with the combat. My map analysis didn't go "This should be Super Metroid", it gave the example of many different types of maps and then analyzed Dread's on its own terms. Dread's map sucks not because it isn't Super Metroid, but because it *isn't anything*. Even if you go "It's INTENTIONALLY a confusing patched together mess of content"... to what end? How does that fit into what the game is trying to accomplish?
 
@@ -189,7 +189,7 @@ I was playing Metroid 2 while Mirai was playing through Samus Returns, causing m
 
 [center][![](twitter2.png)](https://x.com/KayinNasaki/status/1794003961113899430)[/center]
 
-We come back to the big [tool tip="Okay it's not THAT big the Blame! room is like the size of jupiter or something. But it FEELS massive for a GB Game."]*Blame!* room[/tool]. This hit way more nerves than any of the Dread tweets. While most people agreed that this was... frankly, indefensible, I saw a lot of people *try*. 
+We come back to the big [tool tip="Okay it's not THAT big the Blame! room is like the size of jupiter or something. But it FEELS massive for a GB Game."]*Blame!* room[/tool]. This hit way more nerves than any of the Dread tweets. While most people agreed that this was... frankly, indefensible, I saw a lot of people *try*.
 
 I'm told Samus Returns fans are a bit prickly due to some people preferring AM2R, a fan game that *also* butchers the vibe of Metroid 2, but to a *much* lesser extent. I guess this is understandable. Dread has nothing to be compared to.
 

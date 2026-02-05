@@ -70,7 +70,7 @@ Then that got me thinking about ST. "It's fucked up that you need to do a 1f rev
 
 ... But you *don't*. You need to have better timing than your opponent to beat tick throws. Can *they* time to 1f input? If you're playing someone great, probably, but when you watch mid level play, most DPed tick throw attempts aren't usually reversals. That analog sense of timing is part of the game's skill expression.
 
-This goes into why people didn't care about exact frame data back in the day or players playing "by feel". A move being +1 really didn't matter unless both of you have sick timing. We HAD the frame data. We had Yoga Book Hyper for ST. It *did* help. But it's influence was different because the play conditions are were different.
+This goes into why people didn't care about exact frame data back in the day or players playing "by feel". A move being +1 really didn't matter unless both of you have sick timing. We HAD the frame data. We had Yoga Book Hyper for ST. It *did* help. But its influence was different because the play conditions are were different.
 
 In modern games, a +1 situation is often pretty rigidly defined. We have buffers. Our responses will come out on he fastest frame. If my opponent is slow and my suboptimal option keeps winning, people will call that fake... because it is. The expectation is that verse most players, even low ranked players, people will get their moves out as soon as possible. Meanwhile in older games, you can't take that as a certainty even with the best players. They'll hit a lot of frame perfect inputs, but not all of them. Finding where your opponent is being sloppy helps a ton. No one is clean all the time even in modern games, but it's so SO much harder in old games.
 
@@ -82,7 +82,7 @@ Buffers help turn is into robots and, depending on your taste, that can be a goo
 
 One thing that I've also thought a lot about is... new players seem to have an easier time getting into +R than Rev2? Part of this might also be the lobby system and speed to matches, but part of it is, in Rev2, even a mid level player can be pretty scarily consistent, but +R... Welcome to the scramble zone, lol. And like granted you can run into cryptids with 10,000+ hours of play time who will Burst Safe Sidewinder Loop you into the negaverse, but even THEY fuck up or get wilded out by weird interactions. And I say this maybe liking Rev2 more than +R.
 
-In a weird way, making games easier, also makes them harder, because you make them *more consistent for everyone*... and when everything is more consistent, the game is more rigid and unyielding. You're not making an old experience accessible to new people, you're making something new, with it's own pros and cons.
+In a weird way, making games easier, also makes them harder, because you make them *more consistent for everyone*... and when everything is more consistent, the game is more rigid and unyielding. You're not making an old experience accessible to new people, you're making something new, with its own pros and cons.
 
 Again, this isn't a judgment zone. I'm okay with Strive. I'm actively loving SF6. But a rigid games forces players to play it how it was intended. This can help new players learn a lot faster. Hell, such design has lead to games that have even taught me lots of stuff! I don't hate these games.
 

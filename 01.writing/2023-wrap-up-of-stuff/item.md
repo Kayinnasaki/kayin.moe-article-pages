@@ -82,7 +82,7 @@ A lot of this map fun gets extra fun with the grav redesigns, allowing me to lin
 
 ## The Isodrome
 
-This is gonna be it's own post at some point so to give the short version... I found a jumping spider, I threw it in a box, I threw dirt in the box, and then some plants, then I tried to feed it sme roly polys, but roly polys are too brollic for most spiders to eat so then I just had a spider and a whole bunch of roly polys and wait holy shit are those centipedes?? A WORM??? Wait, where did that Harvestman come from. MULTIPLE MILLIPEDES???
+This is gonna be its own post at some point so to give the short version... I found a jumping spider, I threw it in a box, I threw dirt in the box, and then some plants, then I tried to feed it sme roly polys, but roly polys are too brollic for most spiders to eat so then I just had a spider and a whole bunch of roly polys and wait holy shit are those centipedes?? A WORM??? Wait, where did that Harvestman come from. MULTIPLE MILLIPEDES???
 
 So I now have a cube of nature with some outdoor plants mixed with some plants I bought. I'm surprised how much I'm enjoying the plant part of everything too my desk is covered with weird little growing projects and I know have a few actual house plants sitting around that I can take cuttings from for terrarium purposes. But a quick list.
 
