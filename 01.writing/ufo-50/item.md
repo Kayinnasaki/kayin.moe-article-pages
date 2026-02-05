@@ -20,7 +20,7 @@ Mossmouth's incredible collection of games, framed as a recovered and cracked ar
 
 UFO 50 has a bigger selection of "Must Play" games than [tool tip="I like UFO 50 better than the Megadrive, but what *don't* I like better than the megadrive?"]many older consoles[/tool].
 
-Such comparisons are a bit unfair, though. While UFO 50 tries to lean into it's conceit, it lacks verisimilitude. Although some of the earlier games are simpler and some of the later games are more complex, it isn't 100% committed to the bit. It can't be. This is just the brutal reality for a collection of games, made by a handful of people, over what I believe was the last decade.
+Such comparisons are a bit unfair, though. While UFO 50 tries to lean into its conceit, it lacks verisimilitude. Although some of the earlier games are simpler and some of the later games are more complex, it isn't 100% committed to the bit. It can't be. This is just the brutal reality for a collection of games, made by a handful of people, over what I believe was the last decade.
 
 While this might mirror the actual life of a console, goals drift. Both over time and from developer to developer. The LX series of personal computers would also be an early innovator in deck builders, roguelites, metroidvanias, and other genres.
 
@@ -38,7 +38,7 @@ So when I criticize or make fun of a few games, know it is with respect for what
 
 This is a 100% biased tierlist, based on my tastes and interests. Ignoring a few placements, I think it's kinda a safe list for a certain type of player? There's probably three of four basic tier list templates you could make based on peoples favorite genres. So this is *in no ways*, **even remotely**, a trustworthy list. There are games that people love that just *do not work for me*. But if you follow me and read my stuff, then you know me, and you know my taste.
 
-Also like any tier list, its fun to look at, but less interesting and informative than the actual explanation. Games are rated without considering any meta-narrative importance, though they are still judged within the context of being in a 50 game collection.
+Also like any tier list, it's fun to look at, but less interesting and informative than the actual explanation. Games are rated without considering any meta-narrative importance, though they are still judged within the context of being in a 50 game collection.
 
 [center]
 [![](tierlist.png)](tierlist.png?lightbox)
@@ -121,11 +121,11 @@ It's rough, unforgiving, and grindy... but god it rules and just feels so of the
 
 ## Mortol II
 
-What if Mortol was a Metroidvania with a class system? This game has been creeping up the list for me. The game just has so many ways to approach it's map. There is no *right* way to save Mortolia. Well, there's *one* right way. Dying for it.
+What if Mortol was a Metroidvania with a class system? This game has been creeping up the list for me. The game just has so many ways to approach its map. There is no *right* way to save Mortolia. Well, there's *one* right way. Dying for it.
 
 Even once you clear it, a special mode exists which limits your class selection. This requires creative problem solving to route out different ways to destroy the great evil.
 
-It doesn't quite hit as perfectly for me as Mortol 1, but it's so clever and uniquely it's own thing.
+It doesn't quite hit as perfectly for me as Mortol 1, but it's so clever and uniquely its own thing.
 
 # Incredible
 
@@ -139,7 +139,7 @@ I worried Warptank would get too "puzzly" due its mechanics, and while it *does*
 
 ## Valbrace
 
-**Wizardy** meets **Punch-out**, complete with incredible art and animation. A dungeon crawler where you can resist all attrition by *getting good*. This is a game that could be expanded so far if they wanted. It's length is perfect for UFO 50 but this is one of the few games that could have half or, if they wanted, 5 times the content.
+**Wizardy** meets **Punch-out**, complete with incredible art and animation. A dungeon crawler where you can resist all attrition by *getting good*. This is a game that could be expanded so far if they wanted. Its length is perfect for UFO 50 but this is one of the few games that could have half or, if they wanted, 5 times the content.
 
 I don't know if I'd replay Valbrace, but I would be excited for a sequel.
 
@@ -157,7 +157,7 @@ Barbuta used to be all the way up in the top three but I had to be real with mys
 
 ## Porgy
 
-I love Porgy. Its the cutesy, but still brutal sister to Divers. More actiony, yet still tedious... but again, [exploring the sea](../backtracking/) is tedious, slow, careful work. A cool feature of Porgy is roaming superbosses, that can freak you out and force you to avoid them and not get noticed. This helps break up the monotony of multiple trips... you never know when a giant shark is going to interrupt your well laid plans.
+I love Porgy. it's the cutesy, but still brutal sister to Divers. More actiony, yet still tedious... but again, [exploring the sea](../backtracking/) is tedious, slow, careful work. A cool feature of Porgy is roaming superbosses, that can freak you out and force you to avoid them and not get noticed. This helps break up the monotony of multiple trips... you never know when a giant shark is going to interrupt your well laid plans.
 
 # Great
 
@@ -186,7 +186,7 @@ Sadly, once you know where to go and how to get there, the map just becomes tedi
 <h2 class="hiddenh">Elfazar's Hat</h2>
 **Elfazar's Hat** has some **Pocky and Rocky** DNA in it and is just a fun, breezy playthrough with a fun, if sometimes frustrating power-up mechanic. It's a nice in-between of the two extreme ends UFO 50 games seem to fall in between. "Save-based games with Level Select" and "Arcade 1CCs". Elfazar's hat instead is your oldschool "infinite continues, no save" fair and it feels like a nice, perfect, punchy mid tier SNES game.
 <h2 class="hiddenh">Pilot Quest</h2>
-**Pilot Quest** is a *fucking clicker game*, with a [tool tip="Real Time Clock"]RTC[/tool] element, only its game fuckign 43 so you don't realize it unless you luck into it early on and **fuck them** for doing that, but also **lol lmao**. It's pretty mid for a clicker game, and it has an attached, quasi randomized zelda side game attached to it... that is also *mid*, but somehow it is more than the sum of its parts.
+**Pilot Quest** is a *fucking clicker game*, with a [tool tip="Real Time Clock"]RTC[/tool] element, only it's game fucking 43 so you don't realize it unless you luck into it early on and **fuck them** for doing that, but also **lol lmao**. It's pretty mid for a clicker game, and it has an attached, quasi randomized zelda side game attached to it... that is also *mid*, but somehow it is more than the sum of its parts.
 <h2 class="hiddenh">House Party</h2>
 **House Party** was enjoyable, despite me not really liking deck building game. This is a Top 5 game for a lot of the less action oriented players and was good enough at it to somehow roping me into getting a clear on it. Rightfully should be a tier lower for me, yet *somehow*...
 <h2 class="hiddenh">Rock On! Island</h2>
@@ -217,12 +217,12 @@ I don't have much to say about most of these games, but I'll try my best.
 **Attactus** is probably one of the coolest games I couldn't enjoy. Definitely a "top 5"er for someone else. So is **Bug Catcher**, but this deck builder worked less well for me than House Party. **Camouflage** is a perfectly fine puzzle game with a good gimmick and a super cute intro story that is held back only by the fact I don't love puzzle games. 
 <h2 class="hiddenh">Campanella 2</h2>
 <h2 class="hiddenh">Onion Driver</h2>
-**Campanella 2** is a full on roguelite, but definitely seems like it lives in the shadow of *real* rogue-lites. Most of the best games on this list hold up outside the context of UFO 50, but C2 has me thinking I'd rather be playing something else, even if its an ambitious and cool part of the collection. **Onion Driver** is some fun 2d **Crazy Taxi** clone, but I found the navigation too frustrating to be very fun, personally.
+**Campanella 2** is a full on roguelite, but definitely seems like it lives in the shadow of *real* rogue-lites. Most of the best games on this list hold up outside the context of UFO 50, but C2 has me thinking I'd rather be playing something else, even if it's an ambitious and cool part of the collection. **Onion Driver** is some fun 2d **Crazy Taxi** clone, but I found the navigation too frustrating to be very fun, personally.
 <h2 class="hiddenh">Devilition</h2>
 <h2 class="hiddenh">Fist Hell</h2>
 **Devilition** was just a stress factory for me, but I know people love it and I even managed to get a [tool tip="I cheated with by John Madden'ing it"]clear[/tool]. I felt bad about **Fist Hell**. I don't really like oldschool beat'em ups and I lack the genre awareness to even tell when one is good. It's also a zombie apocalypse game, which, for me, is an immediate turn-off. The amount of effort put into it alone though makes it worth checking out.
 <h2 class="hiddenh">Overbold</h2>
-**Overbold** is okay, it just encourages the most boring gameplay, failing at early missions to be... overly bold until you get lucky, get rich, and make the rest of the play through easier. It succeeds at it's premise, but I don't know how much I like that premise.
+**Overbold** is okay, it just encourages the most boring gameplay, failing at early missions to be... overly bold until you get lucky, get rich, and make the rest of the play through easier. It succeeds at its premise, but I don't know how much I like that premise.
 
 # Not for Me
 <h2 class="hiddenh">Campanella</h2>

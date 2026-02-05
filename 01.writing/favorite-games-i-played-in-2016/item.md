@@ -42,7 +42,7 @@ Year end wrap-up time, so lemme make a post like everyone else where I talk abou
 
 ### Devil Daggers
 
-A game with just an absurd content to fun ratio to me. After 50 hours forcing myself to play Gungeon, playing Devil Daggers again was like reaching the surface after suffocating under water. The rush, the speed, THE AESTHETIC. Devil Daggers does not waste my time and hits all my buttons for iteration and improvement. The only problem with it is it is hard to play while doing other stuff. Back during spelunky I would pause the game constantly to do other things but Devil Daggers, like playing TGM tetris, is hard to go back to midway. The game needs your undivided attention. It also does get repetitious so its best as a ‘game between’ games but every time I load up Devil Daggers its like “Why don’t I play this more?”
+A game with just an absurd content to fun ratio to me. After 50 hours forcing myself to play Gungeon, playing Devil Daggers again was like reaching the surface after suffocating under water. The rush, the speed, THE AESTHETIC. Devil Daggers does not waste my time and hits all my buttons for iteration and improvement. The only problem with it is it is hard to play while doing other stuff. Back during spelunky I would pause the game constantly to do other things but Devil Daggers, like playing TGM tetris, is hard to go back to midway. The game needs your undivided attention. It also does get repetitious so its best as a ‘game between’ games but every time I load up Devil Daggers it's like “Why don’t I play this more?”
 
 [floatbox type="full"]
 ![dd](dd.png?lightbox)
@@ -60,7 +60,7 @@ A lovely SNES gem that I would have adored as a child. Not as mechanically cleve
 
 Usually I tell people I don’t like puzzle games that much. Especially hard puzzle games. A cute puzzle platformer can be fun and not overstay its welcome but stuff like the Witness where I’m trying to reverse solve an obtuse puzzle? I really could care less. But Zachtronics doesn’t make those kinds of puzzle games. His games remind me of The Incredible Machine, or bridge builders or, in a sense, Carnage Hearts. Puzzles where there is no ‘trick’ and no ‘the solution’. Puzzles which are about creativity and expression. I actually adore those kinds of Puzzle Games and in fact, that’s part of what I like about making games. So when I played Shenzhen IO I went back to play a bunch of Zachtronics offerings (no Spacechem yet, but I’ll get to it). Shenzhen and TIS-100 like like series of those rewarding “Ah-ha!” moments of fixing my games but without the same stress or stakes. Infinifactory appealed deeply to my love of spacial interactions. I wish I could do this in something like minecraft and have the things I make actually matter. I loved going back in all these games to just do better and beat my friends.
 
-Infinifactory also had the most developed story and progression through the games I played. Its surprisingly interesting and fleshed out and the themes the games areas have match perfectly with whats going on in the story. Perfectly put together and wonderful to play.
+Infinifactory also had the most developed story and progression through the games I played. it's surprisingly interesting and fleshed out and the themes the games areas have match perfectly with whats going on in the story. Perfectly put together and wonderful to play.
 
 [floatbox type="full"]
 ![infini](infini.png?lightbox)
@@ -76,7 +76,7 @@ What a wonderful pair of games! Klonoa 1 was delightful if a bit ages but Klonoa
 
 ### Inside
 
-Inside is on a lot of peoples lists! This is just a wonderful, solid, well put together game that shows a ton of craft while also being a much better execution of the gameplay found in Limbo. Inside builds up its world, it builds up its mechanics, it ramps up its puzzles in ALL the right ways. Appreciation of Inside is like the appreciation of pure craft in a game. It’s not the most interesting, its not the most that filled me with the most wonder or made me feel the most accomplished or anything, but it’s just GREAT.  Also as a fan of atmospheric story telling, especially in a platformer, this game shines. Also has one of the best surprises I ever had in a game — so maybe thats its best trait. Still, wonderful title.
+Inside is on a lot of peoples lists! This is just a wonderful, solid, well put together game that shows a ton of craft while also being a much better execution of the gameplay found in Limbo. Inside builds up its world, it builds up its mechanics, it ramps up its puzzles in ALL the right ways. Appreciation of Inside is like the appreciation of pure craft in a game. It’s not the most interesting, it's not the most that filled me with the most wonder or made me feel the most accomplished or anything, but it’s just GREAT.  Also as a fan of atmospheric story telling, especially in a platformer, this game shines. Also has one of the best surprises I ever had in a game — so maybe thats its best trait. Still, wonderful title.
 [floatbox type="full"]
 ![inside](inside.png?lightbox)
 [/floatbox]
@@ -123,7 +123,7 @@ Anyways these games surprised me in so many ways and Abyss surprised me the most
 
 ###  Nuclear Throne
 
-If I had to say something was my Game of the Year, well… it has to be Nuclear Throne. Just by sheer playtime it has to be.  Nuclear Throne is a game that knows what its about. It’s a game that knows what an interesting character mechanic is and how interesting mechanics can chain together. It understands how to make content that new players will approach cautiously and experienced players can play through like a bat out of hell. After my Gungeon rants, it kills me that it was inspired by Nuclear Throne because Nuclear Throne GETS player engagement and it gets scaling difficulty and it gets game feel and it gets respecting the players time. It gets that there is more to enemy design than rings of bullet hell projectiles. It gets that the layout of an arena can lead to real strategic choices.
+If I had to say something was my Game of the Year, well… it has to be Nuclear Throne. Just by sheer playtime it has to be.  Nuclear Throne is a game that knows what it's about. It’s a game that knows what an interesting character mechanic is and how interesting mechanics can chain together. It understands how to make content that new players will approach cautiously and experienced players can play through like a bat out of hell. After my Gungeon rants, it kills me that it was inspired by Nuclear Throne because Nuclear Throne GETS player engagement and it gets scaling difficulty and it gets game feel and it gets respecting the players time. It gets that there is more to enemy design than rings of bullet hell projectiles. It gets that the layout of an arena can lead to real strategic choices.
 
 Nuclear Throne is like an F1 Racer where you can play so fast and so hard and so aggressively that you can blow yourself to bits if you don’t know how to control yourself. The only bad thing about Nuclear Throne is I DESPERATELY WANT TO GIVE YOU MORE MONEY FOR AN EXPANSION PACK WHY — WHY WON’T YOU DO THIS TO ME I LOVE THIS GAME SO MUCH
 
@@ -137,7 +137,7 @@ Nuclear Throne is like an F1 Racer where you can play so fast and so hard and so
 
 **Super Mario Galaxy:** This game was way less good than people lead me to believe though I guess it was alright.
 
-**Enter the Gungeon:** I now know its not the worst games that make me the maddest but the games that brush so close with greatness
+**Enter the Gungeon:** I now know it's not the worst games that make me the maddest but the games that brush so close with greatness
 
 **Battle Garegga:** I don’t know why I’m still trying to learn this game
 
@@ -153,6 +153,6 @@ Nuclear Throne is like an F1 Racer where you can play so fast and so hard and so
 
 **Pico-8:** This is my new ‘happy wheels’ and I really should make something on it.
 
-**Big Sky Troopers:** This game is also like EVO in that its complete horse shit only I still liked it in fact it’s more EVO than EVO because its EVEN MORE HORSEHIT but something was charming about it and I finished it because I’m dumb?
+**Big Sky Troopers:** This game is also like EVO in that it's complete horse shit only I still liked it in fact it’s more EVO than EVO because it's EVEN MORE HORSEHIT but something was charming about it and I finished it because I’m dumb?
 
 **Glittermitten Grove:** I like fairies okay

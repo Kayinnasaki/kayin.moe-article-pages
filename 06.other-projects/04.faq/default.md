@@ -21,7 +21,7 @@ As for when? That's between me and my burnout.
 
 ## What do you use for your Pixel Art?
 
-Despite all it's problems, I still find [tool tip="Currently a version that fell 'off the back of a van'"]Photoshop[/tool] more pleasant to make pixel art in than anything else I've tried. I occasionally mess with [Aseprite](https://www.aseprite.org/), but it has some miserable UX issues and I don't mean the skin like many complain about(I like the skin!).
+Despite all its problems, I still find [tool tip="Currently a version that fell 'off the back of a van'"]Photoshop[/tool] more pleasant to make pixel art in than anything else I've tried. I occasionally mess with [Aseprite](https://www.aseprite.org/), but it has some miserable UX issues and I don't mean the skin like many complain about(I like the skin!).
 
 I honestly have never found a pixel art program I completely like but I need to have photoshop anyways so it works. People have made great art everything, so as long as you have something that supports stuff like layers and you like it, you're good.
 
@@ -39,7 +39,7 @@ I wrote a script to pull them from Bluesky. You can find it over [on github](htt
 
 ## What do your websites run on? How do you have such a nice blog?
 
-A Debian server running Apache and hosting [Grav](https://getgrav.org/). Good ol' PHP lives on. My [neocities site](https://kayinworks.neocities.org) uses [11ty](https://www.11ty.dev/). Grav is great if you're trying not to use wordpress anymore but you still wanna self host something non-static. Also its Flat File, which I love. 
+A Debian server running Apache and hosting [Grav](https://getgrav.org/). Good ol' PHP lives on. My [neocities site](https://kayinworks.neocities.org) uses [11ty](https://www.11ty.dev/). Grav is great if you're trying not to use wordpress anymore but you still wanna self host something non-static. Also it's flat File, which I love.
  
 That said, this entire site could be made in 11ty so if you're asking, you should probably do that (Though my experiences with grav are all very positive). 11ty is a Static Site Generator so can host it for basically free in a lot of places, including on github.
 
@@ -47,15 +47,15 @@ I strongly recommend these types of blogs because having all your writing as mar
 
 Also Wordpress sucks and Matt Mullenweg can go get his rancid ass buried in hammers. The cool trans girls on tumblr somehow didn't bully him enough. Wordpress was so miserable to maintain for a solo poster that it made me not want to post.
 
-As for how its nice? Hours of tweaking CSS.
+As for how it's nice? Hours of tweaking CSS.
 
 ## I like how think about and talk about games! Do you have any books or articles on game design or game history you recommend?
 
 There hasn't been a game design book I have ever liked and felt like I could recommend. People like to hold up books as some First Tier Highest-Prestige level of information, but a book has to fit it's form just as much as a youtube video does. Books need to be comprehensive in a way I feel doesn't actually suit the realities of game design and finding a voice as an artist. They can't just tell you about all their tools, they need *a thesis*. I'm not saying they're *bad*, but if you like my vibe, they're not going to get you there.
 
-In general I don't take in a lot of *game design* content. There are good youtube videos and stuff for that, but most of it is focusing on an intro level. I'm also inherently distrustful of any advice from channels who have pressure to release regularly. If you're new, just go through [Masahiro Sakurai's Channel](https://www.youtube.com/@sora_sakurai_en). Its very entry level but will introduce you to tons of concepts without being prescriptive.
+In general I don't take in a lot of *game design* content. There are good youtube videos and stuff for that, but most of it is focusing on an intro level. I'm also inherently distrustful of any advice from channels who have pressure to release regularly. If you're new, just go through [Masahiro Sakurai's Channel](https://www.youtube.com/@sora_sakurai_en). it's very entry level but will introduce you to tons of concepts without being prescriptive.
 
-I mostly get stuff piece meal. If I watch stuff, its usually post-mortems, stuff that deal with the realities of a project. I get a lot of game design thoughts by following weird creators and playing their weird games. Following people like [Sylvie](https://bsky.app/profile/sylviefluff.bsky.social), or [Bennett Foddy](https://bsky.app/profile/foddy.net), whose designs challenge accepted orthodoxy, can help you look at and approach games differently. Game design is more like cooking than anything, where rules are a rough guideline and goals are based more on taste than any objective criteria.
+I mostly get stuff piece meal. If I watch stuff, it's usually post-mortems, stuff that deal with the realities of a project. I get a lot of game design thoughts by following weird creators and playing their weird games. Following people like [Sylvie](https://bsky.app/profile/sylviefluff.bsky.social), or [Bennett Foddy](https://bsky.app/profile/foddy.net), whose designs challenge accepted orthodoxy, can help you look at and approach games differently. Game design is more like cooking than anything, where rules are a rough guideline and goals are based more on taste than any objective criteria.
 
 I also recommend listening to creators for other fields and hobbies. I listen to woodworkers, film critics, prop builders, gardeners, chefs, and honestly anyone I find even slightly interesting talk about their craft. There is so much overlap between all creative work, and a frequent issue with games/game devs is our influences are often so *internal* rather than external. Being a more well rounded person will make you better at all forms of art. People joke about "Miyamoto is gardening now so he's going to make a game about gardening" but that's so healthy.
 
@@ -63,7 +63,7 @@ I also recommend listening to creators for other fields and hobbies. I listen to
 
 * [AnyAustin](https://www.youtube.com/@any_austin) has such a beautiful approach to thinking about the illusion of videogames, finding as much beauty in where immersion breaks down as anywhere else. What people see as flaws, Austin sees as a prove of *art*.
 * [Jimmy McGee](https://www.youtube.com/@JimmyMcG33) is hard to pitch. He's just extremely thoughtful and sincere. He's not stuck to any schedule, and he doesn't worry about what topics are popular. He just makes nice, thoughtful, genuine stuff.
-* [Noah Caldwell-Gervais](https://www.youtube.com/@broadcaststsatic) rules, doing the long form videogame essay through the lens of old road trip travel logs. Noah has this great blend of a thoughtful, informed, studied mind, but a real down to earth life and upbringing. Games, through the lens of someone who knows what its like to be a normal person, but is too well read and weird to actually be normal.
+* [Noah Caldwell-Gervais](https://www.youtube.com/@broadcaststsatic) rules, doing the long form videogame essay through the lens of old road trip travel logs. Noah has this great blend of a thoughtful, informed, studied mind, but a real down to earth life and upbringing. Games, through the lens of someone who knows what it's like to be a normal person, but is too well read and weird to actually be normal.
 
 For some kinda post-mortem-y stuff...
 
@@ -73,7 +73,7 @@ For some kinda post-mortem-y stuff...
 For some non game stuff...
 
 * [Dime Store Adventures](https://www.youtube.com/c/DimeStoreAdventures) is a dude who just finds weird news articles or folk stories and walks around in the wood, finding old landmarks and... talks about them. Stories that aren't super flashy, but are long lost to popular history.d
-* [Adam Savage’s Tested](https://www.youtube.com/@tested) seems too popular to even bother mentioning but its hard to stress how much of a gift this man is. Don't watch the cool videos where he makes a prop, or gets invited somewhere. Find a video where he talks about re-arranging his shop for an hour. Find him talking about storage. Even the fluff pieces are okay, but I find the more boring a video sounds like its going to be, the better it is.
+* [Adam Savage’s Tested](https://www.youtube.com/@tested) seems too popular to even bother mentioning but it's hard to stress how much of a gift this man is. Don't watch the cool videos where he makes a prop, or gets invited somewhere. Find a video where he talks about re-arranging his shop for an hour. Find him talking about storage. Even the fluff pieces are okay, but I find the more boring a video sounds like it's going to be, the better it is.
 
 
 ## What happened to (Insert Old Article)? Why did you delete it?

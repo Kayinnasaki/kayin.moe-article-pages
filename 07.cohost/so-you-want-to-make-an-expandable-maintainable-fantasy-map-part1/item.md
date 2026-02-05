@@ -66,7 +66,7 @@ And then I... got an exporter! All customized to export exactly what I want! And
 
 ![chatgpt2](chatgpt2.png "chatgpt2")
 
-Certainly true to it's stackexchange roots, that's for sure. Anyways, never ask me to program anything.
+Certainly true to its stackexchange roots, that's for sure. Anyways, never ask me to program anything.
 
 Also lol the fucking AI made whole functions out of things that should have been one liners and went down weird rabbit holes when they didn't work. Definitely gotta stay on your toes. But with that I have...
 

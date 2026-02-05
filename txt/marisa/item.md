@@ -35,7 +35,7 @@ Other typical terms apply. DRC is canceling a move into Drive Rush, DR is doing 
 
 `a5M`: Your key in close brawly normal besides 2L. One of your staple starters. You can _technically_ hit confirm the first hit of the target combo to avoid the second on block... but you're not. So if you swing with it, get ready to do random gladiuses and charge gladiuses to keep it hard to punish you.
 
-`5H`: 5H > 5H has a mashable gap so don't bother with it on block unless they're letting you get away with murder. The second 5H is +3 but I wouldn't reply in it. Still, a good, forward moving, useful for whiff punishing. Has more advanced uses but basically treat it like a bigger 6M. It's forward movement is good for whiff punishing but means you're going to be smacked in the face if you whiff it too much.
+`5H`: 5H > 5H has a mashable gap so don't bother with it on block unless they're letting you get away with murder. The second 5H is +3 but I wouldn't reply in it. Still, a good, forward moving, useful for whiff punishing. Has more advanced uses but basically treat it like a bigger 6M. Its forward movement is good for whiff punishing but means you're going to be smacked in the face if you whiff it too much.
 
 `6H`: Again, don't bother with the target combos. Big and cancelable. Basically just throw this out and cancel into gladius, hit or block. Can do some fun things on counter hit or punish counter but there are better moves to use when fishing for counter hits. Treat it more like a 5M that gives you a bonus gladius on hit or block. Chargable, but I'm not sure when you would use that feature. **KEY MOVE**
 
@@ -206,7 +206,7 @@ In the corner you have the same options as above. You should probably mostly sti
 
 ## Post Throw
 
-Marisa doesn't get much midscreen off her forward throw. Off a backthrow you can DR in but not close enough to get a strike-throw mixup. If thrown into the corner with either though you CAN DR meatie or even, if its a back throw, simply dash in and meatie.
+Marisa doesn't get much midscreen off her forward throw. Off a backthrow you can DR in but not close enough to get a strike-throw mixup. If thrown into the corner with either though you CAN DR meatie or even, if it's a back throw, simply dash in and meatie.
 
 Most of the time off a throw I'd just dash forward once to close the distance and let things reset to neutral.
 

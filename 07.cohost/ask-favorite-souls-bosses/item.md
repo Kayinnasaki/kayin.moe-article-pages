@@ -32,7 +32,7 @@ Love **Margit/Morgott**. He's such a tragic character. He has the vision of what
 
 But then he kills Serosh, shreds his clothes, drops his weapons, sheds his dignity.
 
-... but it's a false dignity. He returns to his true self, which has a dignity all it's own. Then he hits you with pro wrestling moves. What a fucking Real One.
+... but it's a false dignity. He returns to his true self, which has a dignity all its own. Then he hits you with pro wrestling moves. What a fucking Real One.
 
 From DS3, **Lorian and Lothric** stick in my head a lot because they just feel thematically neat? They have a cool gimmick? They look great, they have the whole 'powerful yet pitiful thing going'.
 

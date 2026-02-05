@@ -16,7 +16,7 @@ taxonomy:
 
 > "We got to the point where Metroidvanias were "Ah yes, I got the GREEN COLORED DASH, which will break GREEN BLOCKS, and I can find all the spots I missed by checking my map. Its an ATTACK and a MOVEMENT OPTION--" and like idk at that point the genre was cooked for like a decade."
 
-As usual, with these posts, I start by [tool tip="Don't worry about this though, I'm just gonna rehash all of it here"][going off on twitter](https://x.com/KayinNasaki/status/1790726647936688596)[/tool], this time about Metroidvania, and as usual its time to salvage a messy thread from a dying platform. 
+As usual, with these posts, I start by [tool tip="Don't worry about this though, I'm just gonna rehash all of it here"][going off on twitter](https://x.com/KayinNasaki/status/1790726647936688596)[/tool], this time about Metroidvania, and as usual it's time to salvage a messy thread from a dying platform. 
 
 [tool tip="Its Sylvie Lime, but for normies."]Animal Well is *apparently good*[/tool] and with that, comes the think pieces and opinions on what the nebulous and poorly named genre of Metroidvanias is and how they *should be*, mechanically. 
 
@@ -32,7 +32,7 @@ What's the alternative? [tool tip="Yes."]Make the player bomb every square of th
 
 ... Sure. But only if you look at Metroid as a game about breaking blocks.
 
-We immerse ourselves so deep in genre that its easy to assume some things are essential. Bombing up random blocks, [tool tip="Metroid is not about having a dozen Biomes"]going from lava land to ice world[/tool], even *lock and Key* game design. We internalize genre so much that it can be hard to remember that its just an abstraction. The design of super metroid isn't to serve the secret energy tank hidden in an unmarked block. That E-Tank is a crude tool that helps reach a goal -- delivering a sense of discovery and exploration.
+We immerse ourselves so deep in genre that it's easy to assume some things are essential. Bombing up random blocks, [tool tip="Metroid is not about having a dozen Biomes"]going from lava land to ice world[/tool], even *lock and Key* game design. We internalize genre so much that it can be hard to remember that it's just an abstraction. The design of super metroid isn't to serve the secret energy tank hidden in an unmarked block. That E-Tank is a crude tool that helps reach a goal -- delivering a sense of discovery and exploration.
 
 ... If bombing random walls to find secrets seems too tedious, you don't need to systemize your way around the problem, you can simply *not do it.* 
 
@@ -58,7 +58,7 @@ It shares the same goals, though. Encouraging deep exploration by constructing a
 
 The fate of the Souls-like is so much like the Metroidvania. I'll be honest with you, Souls games *don't have the best combat mechanics*, sitting between Zelda and a bad monster hunter clone. They don't need to, because again, that's not the goal. When it *is*, the goal, they [*do things much differently*](../sekiro-pressed-all-my-buttons-in-the-right-ways-but-probably-could-afford-to-press-them-a-little-less). Metroid isn't *about* blowing up secret boxes, and Souls games aren't *about* the combat. One merely has to play King's Field to understand *the combat is a means to an end*, creating the struggle you need to reinforce themes and tone of their games.
 
-Part of this is why so many "Soulslikes" fall flat. Dodge-Roll combat *isn't that exciting*. Can you craft a world as compelling as Fromsoft? No? Well, then you better be juicing that combat up. When you look at Nioh and Lies of P, the copying is *very superficial*, invoking aspects of Souls games to try and trick fans into enjoying new experiences that put their combat *much* more in focus. Nioh doesn't have *the vibes*, but [tool tip="Or at least Nioh 2 does"]it knows[/tool] what purpose it's systems serve.
+Part of this is why so many "Soulslikes" fall flat. Dodge-Roll combat *isn't that exciting*. Can you craft a world as compelling as Fromsoft? No? Well, then you better be juicing that combat up. When you look at Nioh and Lies of P, the copying is *very superficial*, invoking aspects of Souls games to try and trick fans into enjoying new experiences that put their combat *much* more in focus. Nioh doesn't have *the vibes*, but [tool tip="Or at least Nioh 2 does"]it knows[/tool] what purpose its systems serve.
 
 Other games will invoke ideas like losing "souls" and strange multiplayer systems. *While these things are cool design spaces to explore*, they are often copied almost blindly, as if they were DS1's *secret good-juice*. But these are mechanics Fromsoft doesn't need, and their games forgoing them regularly. They're tools, used when appropriate.
 
@@ -66,7 +66,7 @@ Blind copying can only get you so far. Rare famously elevated and killed the "Co
 
 The Dark Souls of Collectathons is Tony Hawk Pro Skater, a game that understands that *isn't about collecting tapes*, but exploring cool maps while doing neat tricks. The Tool facilitates the Goal.
 
-Hollow Knight coming out was almost a relief. It wears it's Souls influences on it's sleeve, but it had a long time to *understand* it's influences and come up with ways to achieve it's own goals under it's own terms. Even my own [initial response to Hollow Knight](../i-played-some-games-in-2018) came with a lot negativity, due to internalized assumptions about metroidvanias. *Oh I'm not getting lost because the map is bad, I'm getting lost because that's the goal*. It knew how to use it's tools to achieve it's goals. We no longer needed Dark Souls to be a metroidvania. We could point at Hollow Knight and go *"You know, like that"*.
+Hollow Knight coming out was almost a relief. It wears its souls influences on its sleeve, but it had a long time to *understand* its influences and come up with ways to achieve its own goals under its own terms. Even my own [initial response to Hollow Knight](../i-played-some-games-in-2018) came with a lot negativity, due to internalized assumptions about metroidvanias. *Oh I'm not getting lost because the map is bad, I'm getting lost because that's the goal*. It knew how to use its tools to achieve its goals. We no longer needed Dark Souls to be a metroidvania. We could point at Hollow Knight and go *"You know, like that"*.
 
 ... Of course now people think you make a Metroidvania by making your game look *like this*. Like Dark Souls, Game Design is about ever repeating, inescapable cycles.
 

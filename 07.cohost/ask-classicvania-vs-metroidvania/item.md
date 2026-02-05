@@ -43,7 +43,7 @@ This is how Souls games are designed, especially the older ones.
 
 These encounters are kinda doing the same thing.
 
-In a lot of Metroidvanias, the point isn't the elevate the enemies, it's the elevate the environment. Enemies slow you down, they add friction, and force you to engage. In Igavanias they add a visual flair. Enemies tend to be location specific to fit into a theme. You're doing a little bit of the enemy combo stuff but generally you're usually aiming for a slightly engaging encounter the first time through, then easy, and then a formality. Often they're part of the visual design, helping to differentiate similar rooms. Enemies are *texture* for the world.
+In a lot of Metroidvanias, the point isn't the elevate the enemies, it's to elevate the environment. Enemies slow you down, they add friction, and force you to engage. In Igavanias they add a visual flair. Enemies tend to be location specific to fit into a theme. You're doing a little bit of the enemy combo stuff but generally you're usually aiming for a slightly engaging encounter the first time through, then easy, and then a formality. Often they're part of the visual design, helping to differentiate similar rooms. Enemies are *texture* for the world.
 
 You *could* add pits to Metroidvanias. You could add deeper combat. You could do cool enemy layout changes depending on how you come into a room. A lot of this stuff ends up missing through because they're coming in trying to *fix* metroidvanias by amping up the part they think is weak. But you don't improve a game by ticking all the game design boxes, you improve a game by serving your goals.
 
