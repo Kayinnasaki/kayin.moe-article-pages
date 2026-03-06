@@ -51,13 +51,16 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
 
 <div class="linkbox">
     <a href="https://zaratustra.itch.io/"><div style="background: url(links/zara.png); background-repeat: no-repeat;" class="box8831">Zaratustra Productions</div></a>
+    <a href="https://doodlemancy.com/"><img class="img8831" src="links/doodlemancy.png"></a>
+    <a href="https://starry-mirai.neocities.org/"><img class="img8831 link8831" src="https://starry-mirai.neocities.org/images/miraiButton.gif"></a>
+</div>
+<div class="linkbox">
     <a href="https://surasshu.com/"><img class="img8831" src="links/surasshu.gif"></a>
     <a href="https://sylvie.website/"><div style="background: url(links/sylvie.png)" class="box8831">Sylvie Games</div></a>
     <a href="https://aria.garden/"><div style="background: url(links/aria.png)" class="box8831">Aria's Garden</div></a>
 </div>
 <div class="linkbox">
     <a href="https://blog.aurahack.jp/"><img class="img8831" src="links/aurahack.gif"></a>
-    <a href="https://doodlemancy.com/"><img class="img8831" src="links/doodlemancy.png"></a>
     <a href="https://itsmelilyv.com/"><img class="img8831" src="https://itsmelilyv.com/assets/site_image/itsmelilyv_88x31.gif"></a>
     <a href="https://automatictiger.neocities.org/"><img class="img8831" src="https://automatictiger.neocities.org/images/AstreaLinkButton.png"></a>
 </div>
