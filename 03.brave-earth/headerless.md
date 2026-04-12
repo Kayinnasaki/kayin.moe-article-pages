@@ -3,6 +3,8 @@ title: 'Brave Earth'
 background_image: background.png
 media_order: 'header.png,naomitrans.png,background.png,translogo.png'
 nodate: '1'
+sum: Brave Earth: Prologue is a challenging and engaging action platformer, made in the 8-bit style of the NES. While heavily inspired by classic games such as Castlevania and Ninja Gaiden, Brave Earth: Prologue strikes its own balance between methodical, high risk gameplay and aggressive, fast-paced action. Brave Earth: Prologue's beautiful, handcrafted levels are filled with meticulously placed challenges, aiming to engage players more than frustrate them.
+header_image: translogo.png
 ---
 
 <br><br><br><br>

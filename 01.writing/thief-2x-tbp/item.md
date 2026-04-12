@@ -161,7 +161,7 @@ While both games have that fanfic flair, Thief 2X wears it a bit more forward. M
 
 ![](darkmod2.jpg?lightbox)
 
-![](darkmod3?lightbox)
+![](darkmod3.jpg?lightbox)
 
 [/floatbox]
 

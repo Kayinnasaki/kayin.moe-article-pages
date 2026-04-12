@@ -4,6 +4,8 @@ background_image: background.png
 nodate: '1'
 routes: 
   default: '/moonlight-duelists'
+sum: Bao Huynh, Second Year Student, fights for sake of fighting, tempted by a love of violence and a toxic obsession with the University's top Duelist, Janis Nightingale. Experience the unstable mind of Bao while she explores the strange school, fails at social situations, and enters a dreaming realm where she thinks she'll be free of consequences. Made vaguely in the style of PC-98 VNs, but at a reduced resolution of 320x200.
+header_image: logo.png
 ---
 <br><br><br>
 [floatbox type="full"]
