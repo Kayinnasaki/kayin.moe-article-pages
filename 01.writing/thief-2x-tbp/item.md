@@ -6,8 +6,8 @@ header_image: 'header.jpg'
 header_video: 'header.webm'
 comments: 3mit5uiey7c22
 header_xy: 0% 50%
-date: '24-03-2026'
-publish_date: '24-03-2026'
+date: '06-04-2026'
+publish_date: '06-04-2026'
 taxonomy:
     category:
         - Blog

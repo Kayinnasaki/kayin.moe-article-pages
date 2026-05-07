@@ -85,15 +85,12 @@ A funny aspect of the game is all the voices. This is largely cool, but it affec
 
 [splitbox side="right"]
 [center]
-
 ![](angel.jpeg?)<br>
 <small>I can be ur angel...</small>
 
 ![](devil.jpeg)<br>
 <small>or ur devil...</small>
-
 [/center]
-
 ++++
 
 All this voicing plays into them trying to introduce a whole slew of characters for you to care about. They clearly had a *brand*, and wanted to establish it. Sadly, no one but *Elvis*, the stupid American loving Alien, is given enough time on screen. You rescue a self-aware AI in the first set of missions (*murdering hundreds in the process*), Dr. Caroll. It's goofy 'eyes and eyebrow on a floating laptop' design is cute, but he's almost immediately kidnapped. When you find him again, he is EVIL. You immediately re-program him to be good... Then he sacrifices himself. An entire character arc in two interactions. There is a clear friend-rival you see... once, and then once again in the background of a mission.
