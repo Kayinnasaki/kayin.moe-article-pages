@@ -70,6 +70,11 @@ Feel free to explore the site, and if you want, **hit the toggle on the red bar 
     <a href="https://www.debian.org/"><img class="img8831" src="links/debian.gif"></a>
     <a href="https://zen-browser.app/"><img class="img8831" src="links/zen.png"></a>
 </div>
+<div style="width: 300px; margin: auto; margin-top:20px">
+<div data-gaming-blogs-widget style="min-height: 83px;"></div>
+  <script src="https://www.warppoint.games/embed.js" async></script>
+</div>
+
 [center]
 ### Link to my blog!
 <div class="linkbox">
