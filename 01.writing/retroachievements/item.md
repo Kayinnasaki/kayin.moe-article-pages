@@ -76,4 +76,4 @@ I can't *truly* hate RetroAchievement. They have a right to exist and nobody ask
 
 Yet this still distresses me. The way my generation just gives in, ultimately embracing the noise and bedding itself with the rot. We give in, silently encouraging the worst of us through our quiet acceptence that More is Better. *We weren't given the future we were promised, but we can at least try and create the past we remember.*
 
-I don't hate RetroAchievements, but I hate what they expose. That maybe the old people were right, and that maybe we actually wanted Partication Trophies all along.
+I don't hate RetroAchievements, but I hate what they expose. That maybe the old people were right, and that maybe we actually wanted Participation Trophies all along.
