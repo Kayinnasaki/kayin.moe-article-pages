@@ -297,7 +297,7 @@ Now he's already looking for an excuse to rewatch Evangelion. Even as I think my
 
 I decry nostalgia a lot, but that doesn't mean I'm not affected by things from my youth. This show hit me at my most impressionable. It has influenced my tastes, both in what I consume and make. I can't be nostalgic for something that's never left me. How can it when it rewired my young brain so much? It still lives there, rewiring me still, year after year. I have plenty of memories from before Evangelion, but almost no memories that still feel like *me*. It's been with me ever since I've had an old enough mind to not feel like a child. It is, without reservation, my favorite Anime, my favorite show, my favorite piece of non-videogame media, period. I wouldn't have been so sure of this even ten years ago and It might be another ten years before I watch Eva again. But it will happen. 
 
-Someone will pop into my life, or a relative will hit the right age, or maybe something else will trigger. At some point, a different, older me will rewatch the same show an derive new meaning. If art is the intersection between creator and viewer, as long as I continue to grow, the art I love can grow with me.
+Someone will pop into my life, or a relative will hit the right age, or maybe something else will trigger. At some point, a different, older me will rewatch the same show and derive new meaning. If art is the intersection between creator and viewer, as long as I continue to grow, the art I love can grow with me.
 
 [center]
 ![](footer.png)
